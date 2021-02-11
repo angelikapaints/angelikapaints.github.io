@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-02-11T15:33:55+01:00</updated>
+    <updated>2021-02-11T15:46:04+01:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://angelikapaints.com/hello-world.html"/>
         <id>https://angelikapaints.com/hello-world.html</id>
 
-        <updated>2021-02-11T15:33:55+01:00</updated>
+        <updated>2021-02-11T15:46:04+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://angelikapaints.com/media/posts/1/lighting-2.jpg" alt="" />
                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://angelikapaints.com/media/posts/1/lighting-2.jpg" alt="" />
                 
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Risus feugiat in ante metus dictum at tempor. Fames ac turpis egestas integer. Convallis a cras semper auctor neque. Sit amet facilisis magna etiam tempor orci eu. Nulla malesuada pellentesque elit eget gravida. Felis eget velit aliquet sagittis. Urna porttitor rhoncus dolor purus non. Nullam non nisi est sit amet facilisis. A arcu cursus vitae congue mauris rhoncus.
