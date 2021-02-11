@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Angelika Paints",
+    "description": "",
+    "home_page_url": "https://angelikapaints.com",
+    "feed_url": "https://angelikapaints.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Angelika"
+    },
+    "items": [
+        {
+            "id": "https://angelikapaints.com/hello-world.html",
+            "url": "https://angelikapaints.com/hello-world.html",
+            "title": "Hello World",
+            "summary": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Risus feugiat in ante metus dictum at tempor. Fames ac turpis egestas integer. Convallis a cras&hellip;",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Risus feugiat in ante metus dictum at tempor. Fames ac turpis egestas integer. Convallis a cras semper auctor neque. Sit amet facilisis magna etiam tempor orci eu. Nulla malesuada pellentesque elit eget gravida. Felis eget velit aliquet sagittis. Urna porttitor rhoncus dolor purus non. Nullam non nisi est sit amet facilisis. A arcu cursus vitae congue mauris rhoncus.\n<br>\n<br>At volutpat diam ut venenatis tellus in. Semper quis lectus nulla at volutpat. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Ornare suspendisse sed nisi lacus sed viverra. Nunc congue nisi vitae suscipit. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Lectus mauris ultrices eros in cursus. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum. Nulla malesuada pellentesque elit eget gravida cum. Ultrices sagittis orci a scelerisque.\n<br>\n<br>Nulla at volutpat diam ut venenatis tellus in metus. At varius vel pharetra vel. Mi eget mauris pharetra et. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Consequat ac felis donec et. Senectus et netus et malesuada fames ac turpis egestas maecenas. Adipiscing diam donec adipiscing tristique. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Nisl pretium fusce id velit ut tortor pretium. Egestas egestas fringilla phasellus faucibus. Lorem ipsum dolor sit amet. Scelerisque in dictum non consectetur a. Morbi tristique senectus et netus. Aliquam faucibus purus in massa.\n<br>\n<br>Pellentesque habitant morbi tristique senectus et. Ullamcorper sit amet risus nullam eget felis eget nunc. Arcu risus quis varius quam quisque. Nunc id cursus metus aliquam eleifend mi in nulla. Gravida dictum fusce ut placerat orci nulla pellentesque. Feugiat vivamus at augue eget. Risus nullam eget felis eget nunc lobortis mattis aliquam. Amet venenatis urna cursus eget nunc. Auctor neque vitae tempus quam pellentesque nec nam. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Luctus accumsan tortor posuere ac ut consequat semper. Integer eget aliquet nibh praesent tristique. Nunc lobortis mattis aliquam faucibus. Fringilla ut morbi tincidunt augue interdum velit euismod in. Mauris ultrices eros in cursus turpis massa tincidunt. Cras sed felis eget velit. Justo donec enim diam vulputate ut pharetra sit amet aliquam.\n<br>\n<br>Vel pharetra vel turpis nunc. Sed tempus urna et pharetra pharetra massa massa. Orci a scelerisque purus semper eget duis at. Lobortis scelerisque fermentum dui faucibus in. Quis ipsum suspendisse ultrices gravida dictum fusce. Interdum varius sit amet mattis vulputate enim. Condimentum lacinia quis vel eros donec ac odio tempor. Tellus id interdum velit laoreet id donec ultrices. Id consectetur purus ut faucibus. Libero enim sed faucibus turpis in eu mi bibendum neque. Nullam ac tortor vitae purus faucibus.\n  </p>",
+            "author": {
+                "name": "Angelika"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-11T15:33:55+01:00",
+            "date_modified": "2021-02-11T15:33:55+01:00"
+        }
+    ]
+}
