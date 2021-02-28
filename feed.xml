@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Ana&#x27;s First Publii Website</title>
+    <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2020-09-14T19:03:57+02:00</updated>
+    <updated>2021-02-28T18:34:48+01:00</updated>
     <author>
         <name>Ana</name>
     </author>
@@ -14,19 +14,19 @@
         <author>
             <name>Ana</name>
         </author>
-        <link href="https://angelikapaints.com/hello-world.html"/>
-        <id>https://angelikapaints.com/hello-world.html</id>
+        <link href="https://angelikapaints.com/hello-world/"/>
+        <id>https://angelikapaints.com/hello-world/</id>
 
-        <updated>2020-09-14T19:03:57+02:00</updated>
+        <updated>2021-02-28T18:34:48+01:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem integer vitae justo eget magna fermentum iaculis eu. Et malesuada fames ac turpis. Augue lacus viverra vitae congue eu consequat. Mauris pellentesque pulvinar pellentesque habitant&hellip;
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem integer vitae justo eget magna fermentum iaculis eu. Et malesuada fames ac turpis. Augue lacus viverra vitae congue eu consequat. Mauris pellentesque pulvinar pellentesque habitant morbi.</p>
-<figure class="post__image post__image--left" ><img loading="lazy" src="https://angelikapaints.com/media/posts/1/61DC2E2C-B075-4FD8-954F-A7574F4182E8.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-xs.jpeg 300w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-sm.jpeg 480w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-md.jpeg 768w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-lg.jpeg 1024w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-xl.jpeg 1360w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-2xl.jpeg 1600w"  alt="Schaukelstuhl" width="4032" height="3024">
+<figure class="post__image post__image--left" ><img loading="lazy" src="https://angelikapaints.com/media/posts/1/61DC2E2C-B075-4FD8-954F-A7574F4182E8.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-xs.jpeg 300w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-sm.jpeg 480w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-md.jpeg 768w"  alt="Schaukelstuhl" width="4032" height="3024">
 <figcaption >Zebe stellt sachen an</figcaption>
 </figure>
 <p>Semper auctor neque vitae tempus quam pellentesque nec. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Nunc sed augue lacus viverra. Turpis egestas pretium aenean pharetra magna ac.</p>

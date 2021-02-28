@@ -5,8 +5,8 @@
 <loc>https://angelikapaints.com/</loc>
 </url>
 <url>
-<loc>https://angelikapaints.com/hello-world.html</loc>
-<lastmod>2020-09-14T19:03:57+02:00</lastmod>
+<loc>https://angelikapaints.com/hello-world/</loc>
+<lastmod>2021-02-28T18:34:48+01:00</lastmod>
 <image:image>
 <image:loc>https://angelikapaints.com/media/posts/1/61DC2E2C-B075-4FD8-954F-A7574F4182E8.jpeg</image:loc>
 <image:title><![CDATA[Schaukelstuhl]]></image:title>
@@ -35,5 +35,9 @@
 <image:loc>https://angelikapaints.com/media/posts/1/gallery/8C6E8B60-3DF5-46BF-88F4-BA1060C7CFC9-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://angelikapaints.com/my-homepage/</loc>
+<lastmod>2021-02-28T18:42:24+01:00</lastmod>
 </url>
 </urlset>
