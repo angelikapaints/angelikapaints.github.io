@@ -3,12 +3,58 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-02-28T18:34:48+01:00</updated>
+    <updated>2021-03-15T07:06:12+01:00</updated>
     <author>
         <name>Ana</name>
     </author>
     <id>https://angelikapaints.com</id>
 
+    <entry>
+        <title>Nature Abstractions #1</title>
+        <author>
+            <name>Ana</name>
+        </author>
+        <link href="https://angelikapaints.com/nature-abstractions-1/"/>
+        <id>https://angelikapaints.com/nature-abstractions-1/</id>
+
+        <updated>2021-03-15T07:06:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nature Variations #1</title>
+        <author>
+            <name>Ana</name>
+        </author>
+        <link href="https://angelikapaints.com/nature-variations-1/"/>
+        <id>https://angelikapaints.com/nature-variations-1/</id>
+
+        <updated>2021-03-15T07:05:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello world</title>
         <author>
