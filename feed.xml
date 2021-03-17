@@ -3,12 +3,104 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-03-17T18:52:51+01:00</updated>
+    <updated>2021-03-17T19:30:05+01:00</updated>
     <author>
         <name>Ana</name>
     </author>
     <id>https://angelikapaints.com</id>
 
+    <entry>
+        <title>Trees</title>
+        <author>
+            <name>Ana</name>
+        </author>
+        <link href="https://angelikapaints.com/trees/"/>
+        <id>https://angelikapaints.com/trees/</id>
+
+        <updated>2021-03-17T19:30:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Private Lessons</title>
+        <author>
+            <name>Ana</name>
+        </author>
+        <link href="https://angelikapaints.com/private-lessons/"/>
+        <id>https://angelikapaints.com/private-lessons/</id>
+
+        <updated>2021-03-17T19:28:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Augen | Eyes</title>
+        <author>
+            <name>Ana</name>
+        </author>
+        <link href="https://angelikapaints.com/augen-or-eyes/"/>
+        <id>https://angelikapaints.com/augen-or-eyes/</id>
+
+        <updated>2021-03-17T19:27:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/5/gallery/Green-eyes.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/5/gallery/Green-eyes-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/5/gallery/Nov_2014.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/5/gallery/Nov_2014-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/5/gallery/Plumage.jpg" data-size="1500x1500">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/5/gallery/Plumage-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nature Abstractions #1</title>
         <author>

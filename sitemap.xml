@@ -5,6 +5,10 @@
 <loc>https://angelikapaints.com/</loc>
 </url>
 <url>
+<loc>https://angelikapaints.com/augen-or-eyes/</loc>
+<lastmod>2021-03-17T19:27:34+01:00</lastmod>
+</url>
+<url>
 <loc>https://angelikapaints.com/hello-world/</loc>
 <lastmod>2021-02-28T18:34:48+01:00</lastmod>
 <image:image>
@@ -38,7 +42,7 @@
 </url>
 <url>
 <loc>https://angelikapaints.com/my-homepage/</loc>
-<lastmod>2021-03-15T06:31:28+01:00</lastmod>
+<lastmod>2021-03-17T19:32:38+01:00</lastmod>
 <image:image>
 <image:loc>https://angelikapaints.com/media/posts/2/Landscape.jpeg</image:loc>
 <image:title><![CDATA[Landscape ]]></image:title>
@@ -60,6 +64,10 @@
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
+<image:loc>https://angelikapaints.com/media/posts/2/gallery/Schafer_BerlinMarathon20181-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
 <image:loc>https://angelikapaints.com/media/posts/2/gallery/A9BD8D87-5DC2-48F6-AA11-C30E9287E273-thumbnail.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
@@ -75,5 +83,13 @@
 <url>
 <loc>https://angelikapaints.com/nature-variations-1/</loc>
 <lastmod>2021-03-15T07:05:51+01:00</lastmod>
+</url>
+<url>
+<loc>https://angelikapaints.com/private-lessons/</loc>
+<lastmod>2021-03-17T19:28:12+01:00</lastmod>
+</url>
+<url>
+<loc>https://angelikapaints.com/trees/</loc>
+<lastmod>2021-03-17T19:30:05+01:00</lastmod>
 </url>
 </urlset>
