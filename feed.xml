@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-03-17T21:28:37+01:00</updated>
+    <updated>2021-03-17T21:31:30+01:00</updated>
     <author>
         <name>Ana</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://angelikapaints.com/trees/"/>
         <id>https://angelikapaints.com/trees/</id>
 
-        <updated>2021-03-17T19:30:05+01:00</updated>
+        <updated>2021-03-17T21:31:30+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://angelikapaints.com/media/posts/7/Vertical-BirchTrees.jpeg" alt="" />
                      
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://angelikapaints.com/media/posts/7/Vertical-BirchTrees.jpeg" alt="" />
                 
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
