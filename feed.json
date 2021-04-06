@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://angelikapaints.com/aquarelle-melodies/",
+            "url": "https://angelikapaints.com/aquarelle-melodies/",
+            "title": "Aquarelle Melodies",
+            "summary": " Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals&hellip;",
+            "content_html": "\n  <p>\n    Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals for texture. When I travel, or sketch ideas, I like to use watercolour paint.&nbsp;\n  </p>\n\n  <p>\n    These small paintings are&nbsp; like melodies to a theme that popped into my head or I create them to play with a theme for an oil painting.&nbsp;\n  </p>",
+            "image": "https://angelikapaints.com/media/posts/8/IMG_7333.jpg",
+            "author": {
+                "name": "Angelika"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-06T16:56:55+02:00",
+            "date_modified": "2021-04-06T17:02:26+02:00"
+        },
+        {
             "id": "https://angelikapaints.com/trees/",
             "url": "https://angelikapaints.com/trees/",
             "title": "Trees",

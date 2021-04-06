@@ -3,12 +3,41 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-03-17T21:45:27+01:00</updated>
+    <updated>2021-04-06T17:02:26+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
     <id>https://angelikapaints.com</id>
 
+    <entry>
+        <title>Aquarelle Melodies</title>
+        <author>
+            <name>Angelika</name>
+        </author>
+        <link href="https://angelikapaints.com/aquarelle-melodies/"/>
+        <id>https://angelikapaints.com/aquarelle-melodies/</id>
+
+        <updated>2021-04-06T17:02:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://angelikapaints.com/media/posts/8/IMG_7333.jpg" alt="Landscape" />
+                     Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://angelikapaints.com/media/posts/8/IMG_7333.jpg" alt="Landscape" />
+                
+  <p>
+    Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals for texture. When I travel, or sketch ideas, I like to use watercolour paint.&nbsp;
+  </p>
+
+  <p>
+    These small paintings are&nbsp; like melodies to a theme that popped into my head or I create them to play with a theme for an oil painting.&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Trees</title>
         <author>
