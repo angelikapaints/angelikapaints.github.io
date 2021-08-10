@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Angelika Paints</title>
+    <title>GraphicAna</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-07-10T22:12:51+02:00</updated>
+    <updated>2021-08-10T16:26:48+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://angelikapaints.com/sketchbook-melodies/"/>
         <id>https://angelikapaints.com/sketchbook-melodies/</id>
 
-        <updated>2021-07-09T21:38:53+02:00</updated>
+        <updated>2021-08-10T15:53:05+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/9/34FCF56A-DBC6-46EB-AD9F-2DC2B602CC17.jpeg" alt="" />
@@ -104,11 +104,11 @@
         <link href="https://angelikapaints.com/aquarelle-melodies/"/>
         <id>https://angelikapaints.com/aquarelle-melodies/</id>
 
-        <updated>2021-07-10T22:12:51+02:00</updated>
+        <updated>2021-08-10T16:17:36+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/8/IMG_7333.jpg" alt="Landscape" />
-                     Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals for texture. When I travel, or sketch ideas, I like to use watercolour paint.&nbsp; These small paintings are&nbsp; like melodies to a theme that popped&hellip;
+                     Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -502,18 +502,18 @@
         </content>
     </entry>
     <entry>
-        <title>About GraphicAna</title>
+        <title>GraphicAna</title>
         <author>
             <name>Angelika</name>
         </author>
         <link href="https://angelikapaints.com/my-homepage/"/>
         <id>https://angelikapaints.com/my-homepage/</id>
 
-        <updated>2021-07-09T21:46:40+02:00</updated>
+        <updated>2021-08-10T16:26:48+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/2/068F09F9-8AF6-4417-A2B6-DF992DF719A8.jpeg" alt="Lemon in Oil on Wood" />
-                    About Angelika Paints email: Angelika Paints || A Visual Diary || My art reflects experiences and feelings that influence me in large and small ways every day. Art tells a story with chapters reflecting people and events around me at a specific time in life.
+                    About Angelika Paints email: Angelika Paints || A Visual Diary || My art reflects experiences and feelings that influence me&hellip;
                 ]]>
             </summary>
         <content type="html">

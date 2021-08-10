@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Angelika Paints",
+    "title": "GraphicAna",
     "description": "",
     "home_page_url": "https://angelikapaints.com",
     "feed_url": "https://angelikapaints.com/feed.json",
@@ -22,13 +22,13 @@
             "tags": [
             ],
             "date_published": "2021-04-21T15:47:54+02:00",
-            "date_modified": "2021-07-09T21:38:53+02:00"
+            "date_modified": "2021-08-10T15:53:05+02:00"
         },
         {
             "id": "https://angelikapaints.com/aquarelle-melodies/",
             "url": "https://angelikapaints.com/aquarelle-melodies/",
             "title": "Aquarelle Melodies",
-            "summary": " Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals for texture. When I travel, or sketch ideas, I like to use watercolour paint.&nbsp; These small paintings are&nbsp; like melodies to a theme that popped&hellip;",
+            "summary": " Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals&hellip;",
             "content_html": "\n  <p>\n    Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals for texture. When I travel, or sketch ideas, I like to use watercolour paint.&nbsp;\n  </p>\n\n  <p>\n    These small paintings are&nbsp; like melodies to a theme that popped into my head or I create them to play with a theme for an oil painting.&nbsp;\n  </p>\n\n  <p>\n    \n  </p>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--center\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/8/gallery/4FE27A72-5FA9-48C2-A7C8-2C67067AA78F.jpeg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/8/gallery/4FE27A72-5FA9-48C2-A7C8-2C67067AA78F-thumbnail.jpeg\" height=\"540\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/8/gallery/737D635B-8106-4775-8ED7-3D74771602B9.jpeg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/8/gallery/737D635B-8106-4775-8ED7-3D74771602B9-thumbnail.jpeg\" height=\"540\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/8/gallery/A0E76F9B-81B3-4F8F-BA23-CC2E2CADB3FF.jpeg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/8/gallery/A0E76F9B-81B3-4F8F-BA23-CC2E2CADB3FF-thumbnail.jpeg\" height=\"540\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/8/gallery/1149B793-9A93-4353-8DD0-DC6AAA1221EF.jpeg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/8/gallery/1149B793-9A93-4353-8DD0-DC6AAA1221EF-thumbnail.jpeg\" height=\"540\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/8/gallery/28ED21B8-9FC4-4575-8470-A60566B3E341.jpeg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/8/gallery/28ED21B8-9FC4-4575-8470-A60566B3E341-thumbnail.jpeg\" height=\"540\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/8/gallery/F54C4CBE-8D41-48A4-8881-DD194B35D0E2.jpeg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/8/gallery/F54C4CBE-8D41-48A4-8881-DD194B35D0E2-thumbnail.jpeg\" height=\"540\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/8/gallery/3ADC66A1-5B4B-4A1B-A0F1-7A81F9F5E8B0.jpeg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/8/gallery/3ADC66A1-5B4B-4A1B-A0F1-7A81F9F5E8B0-thumbnail.jpeg\" height=\"540\" width=\"720\" alt=\"\" />\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
             "image": "https://angelikapaints.com/media/posts/8/IMG_7333.jpg",
             "author": {
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2021-04-06T16:56:55+02:00",
-            "date_modified": "2021-07-10T22:12:51+02:00"
+            "date_modified": "2021-08-10T16:17:36+02:00"
         },
         {
             "id": "https://angelikapaints.com/trees/",
@@ -116,8 +116,8 @@
         {
             "id": "https://angelikapaints.com/my-homepage/",
             "url": "https://angelikapaints.com/my-homepage/",
-            "title": "About GraphicAna",
-            "summary": "About Angelika Paints email: Angelika Paints || A Visual Diary || My art reflects experiences and feelings that influence me in large and small ways every day. Art tells a story with chapters reflecting people and events around me at a specific time in life.",
+            "title": "GraphicAna",
+            "summary": "About Angelika Paints email: Angelika Paints || A Visual Diary || My art reflects experiences and feelings that influence me&hellip;",
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://angelikapaints.com/media/posts/2/gallery/Landscape.jpeg\" data-size=\"640x480\"><img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/2/gallery/Landscape-thumbnail.jpeg\" alt=\"\" width=\"640\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://angelikapaints.com/media/posts/2/gallery/Zebe1.jpeg\" data-size=\"960x950\"><img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/2/gallery/Zebe1-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"760\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://angelikapaints.com/media/posts/2/gallery/Zebe2.jpeg\" data-size=\"960x804\"><img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/2/gallery/Zebe2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"643\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://angelikapaints.com/media/posts/2/gallery/House-Sunset.jpeg\" data-size=\"450x640\"><img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/2/gallery/House-Sunset-thumbnail.jpeg\" alt=\"\" width=\"450\" height=\"640\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://angelikapaints.com/media/posts/2/gallery/Schafer_BerlinMarathon20181.jpeg\" data-size=\"3646x2430\"><img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/2/gallery/Schafer_BerlinMarathon20181-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://angelikapaints.com/media/posts/2/gallery/Instagram-qrcode.jpeg\" data-size=\"828x1428\"><img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/2/gallery/Instagram-qrcode-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1325\"></a></figure>\n</div></div>\n<p><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;\">About Angelika Paints   email: <a href=\"mailto: angelika2schafer@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">Angelika Paints</a><br>|| A Visual Diary || <br><br></span></p>\n<p><span style=\"font-weight: 400;\">My art reflects experiences and feelings that influence me in large and small ways every day. Art tells a story with chapters reflecting people and events around me at a specific time in life.<br><br>Public and Personal Art in One Piece<br>The public experience from my art is when the art is seen from further away. It might just be a glimpse from a corner of your eye without seeing the details. It sets a mood incorporating a specific color palette. It’s like picking up an aroma of a new or familiar food that is simmering in the kitchen. It’s the foretaste that becomes more clear and only gives away its nuances when fully enjoyed and experienced through all senses.</span></p>\n<p><span style=\"font-weight: 400;\">Angelika embraces life with the mantra that there is always an opportunity to learn. Her favourite years were when she was herself a student studying art at UMBC and again for her Graduate degree at MICA (Maryland Institute College of Art). Her formative years offered a plethora of immersive experiences; learning from different cultures, getting involved in new environments and communities, and never ceasing to be amazed by novel  personal and professional challenges. Angelika has been living, creating art, and teaching to a broad community of learners with diverse backgrounds, cultures, and learning profiles. Living in the USA for almost 20 years, she visited Europe at least once a year collecting new ideas for her classroom and reconnecting with her personal roots. </span></p>\n<p><span style=\"font-weight: 400;\">Angelika has been looking forward to returning and teaching at an International School, using both her artistic experience and philosophy of life-long learning to teach a variety of learners with different skill levels and learning abilities. Today, Angelika teaches art and STEAM at the International School in Neu-Ulm, Germany getting inspired by runs along the Donau and getting acquainted with the German life again.</span></p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://angelikapaints.com/media/posts/2/gallery/A9BD8D87-5DC2-48F6-AA11-C30E9287E273.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/2/gallery/A9BD8D87-5DC2-48F6-AA11-C30E9287E273-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>",
             "image": "https://angelikapaints.com/media/posts/2/068F09F9-8AF6-4417-A2B6-DF992DF719A8.jpeg",
             "author": {
@@ -126,7 +126,7 @@
             "tags": [
             ],
             "date_published": "2021-02-28T18:38:52+01:00",
-            "date_modified": "2021-07-09T21:46:40+02:00"
+            "date_modified": "2021-08-10T16:26:48+02:00"
         }
     ]
 }
