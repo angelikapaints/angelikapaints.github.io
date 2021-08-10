@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-07-09T21:27:57+02:00</updated>
+    <updated>2021-07-10T22:12:51+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://angelikapaints.com/sketchbook-melodies/"/>
         <id>https://angelikapaints.com/sketchbook-melodies/</id>
 
-        <updated>2021-07-09T21:23:04+02:00</updated>
+        <updated>2021-07-09T21:38:53+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/9/34FCF56A-DBC6-46EB-AD9F-2DC2B602CC17.jpeg" alt="" />
@@ -104,7 +104,7 @@
         <link href="https://angelikapaints.com/aquarelle-melodies/"/>
         <id>https://angelikapaints.com/aquarelle-melodies/</id>
 
-        <updated>2021-07-09T21:27:57+02:00</updated>
+        <updated>2021-07-10T22:12:51+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/8/IMG_7333.jpg" alt="Landscape" />
@@ -502,46 +502,37 @@
         </content>
     </entry>
     <entry>
-        <title>Hello world</title>
+        <title>About GraphicAna</title>
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/hello-world/"/>
-        <id>https://angelikapaints.com/hello-world/</id>
+        <link href="https://angelikapaints.com/my-homepage/"/>
+        <id>https://angelikapaints.com/my-homepage/</id>
 
-        <updated>2021-02-28T18:34:48+01:00</updated>
+        <updated>2021-07-09T21:46:40+02:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem integer vitae justo eget magna fermentum iaculis eu. Et malesuada fames ac turpis. Augue lacus viverra vitae congue eu consequat. Mauris pellentesque pulvinar pellentesque habitant&hellip;
+                        <img src="https://angelikapaints.com/media/posts/2/068F09F9-8AF6-4417-A2B6-DF992DF719A8.jpeg" alt="Lemon in Oil on Wood" />
+                    About Angelika Paints email: Angelika Paints || A Visual Diary || My art reflects experiences and feelings that influence me in large and small ways every day. Art tells a story with chapters reflecting people and events around me at a specific time in life.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem integer vitae justo eget magna fermentum iaculis eu. Et malesuada fames ac turpis. Augue lacus viverra vitae congue eu consequat. Mauris pellentesque pulvinar pellentesque habitant morbi.</p>
-<figure class="post__image post__image--left" ><img loading="lazy" src="https://angelikapaints.com/media/posts/1/61DC2E2C-B075-4FD8-954F-A7574F4182E8.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-xs.jpeg 300w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-sm.jpeg 480w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-md.jpeg 768w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-lg.jpeg 1024w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-xl.jpeg 1360w ,https://angelikapaints.com/media/posts/1/responsive/61DC2E2C-B075-4FD8-954F-A7574F4182E8-2xl.jpeg 1600w"  alt="Schaukelstuhl" width="4032" height="3024">
-<figcaption >Zebe stellt sachen an</figcaption>
-</figure>
-<p>Semper auctor neque vitae tempus quam pellentesque nec. Ut faucibus pulvinar elementum integer enim neque volutpat ac. Nunc sed augue lacus viverra. Turpis egestas pretium aenean pharetra magna ac.</p>
-<p>Non odio euismod lacinia at quis risus sed vulputate. Diam sit amet nisl suscipit. Pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Urna duis convallis convallis tellus id interdum velit. Elementum tempus egestas sed sed. Sit amet consectetur adipiscing elit pellentesque habitant.</p>
+                    <img src="https://angelikapaints.com/media/posts/2/068F09F9-8AF6-4417-A2B6-DF992DF719A8.jpeg" alt="Lemon in Oil on Wood" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/Landscape.jpeg" data-size="640x480"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/Landscape-thumbnail.jpeg" alt="" width="640" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/Zebe1.jpeg" data-size="960x950"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/Zebe1-thumbnail.jpeg" alt="" width="768" height="760"></a></figure>
+<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/Zebe2.jpeg" data-size="960x804"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/Zebe2-thumbnail.jpeg" alt="" width="768" height="643"></a></figure>
+<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/House-Sunset.jpeg" data-size="450x640"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/House-Sunset-thumbnail.jpeg" alt="" width="450" height="640"></a></figure>
+<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/Schafer_BerlinMarathon20181.jpeg" data-size="3646x2430"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/Schafer_BerlinMarathon20181-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/Instagram-qrcode.jpeg" data-size="828x1428"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/Instagram-qrcode-thumbnail.jpeg" alt="" width="768" height="1325"></a></figure>
+</div></div>
+<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">About Angelika Paints   email: <a href="mailto: angelika2schafer@gmail.com" target="_blank" rel="noopener noreferrer">Angelika Paints</a><br>|| A Visual Diary || <br><br></span></p>
+<p><span style="font-weight: 400;">My art reflects experiences and feelings that influence me in large and small ways every day. Art tells a story with chapters reflecting people and events around me at a specific time in life.<br><br>Public and Personal Art in One Piece<br>The public experience from my art is when the art is seen from further away. It might just be a glimpse from a corner of your eye without seeing the details. It sets a mood incorporating a specific color palette. It’s like picking up an aroma of a new or familiar food that is simmering in the kitchen. It’s the foretaste that becomes more clear and only gives away its nuances when fully enjoyed and experienced through all senses.</span></p>
+<p><span style="font-weight: 400;">Angelika embraces life with the mantra that there is always an opportunity to learn. Her favourite years were when she was herself a student studying art at UMBC and again for her Graduate degree at MICA (Maryland Institute College of Art). Her formative years offered a plethora of immersive experiences; learning from different cultures, getting involved in new environments and communities, and never ceasing to be amazed by novel  personal and professional challenges. Angelika has been living, creating art, and teaching to a broad community of learners with diverse backgrounds, cultures, and learning profiles. Living in the USA for almost 20 years, she visited Europe at least once a year collecting new ideas for her classroom and reconnecting with her personal roots. </span></p>
+<p><span style="font-weight: 400;">Angelika has been looking forward to returning and teaching at an International School, using both her artistic experience and philosophy of life-long learning to teach a variety of learners with different skill levels and learning abilities. Today, Angelika teaches art and STEAM at the International School in Neu-Ulm, Germany getting inspired by runs along the Donau and getting acquainted with the German life again.</span></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/1/gallery/C7E5FAD0-50ED-46AD-A67D-E644C49B6FD7.jpeg" data-size="4032x3024"><img loading="lazy" src="https://angelikapaints.com/media/posts/1/gallery/C7E5FAD0-50ED-46AD-A67D-E644C49B6FD7-thumbnail.jpeg" alt="" width="720" height="540"></a>
-<figcaption>lake</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/1/gallery/44AF1B2D-69B3-4204-BBFD-A61E62481ECB.jpeg" data-size="4032x3024"><img loading="lazy" src="https://angelikapaints.com/media/posts/1/gallery/44AF1B2D-69B3-4204-BBFD-A61E62481ECB-thumbnail.jpeg" alt="" width="720" height="540"></a>
-<figcaption>river</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/1/gallery/C7E5FAD0-50ED-46AD-A67D-E644C49B6FD7-2.jpeg" data-size="4032x3024"><img loading="lazy" src="https://angelikapaints.com/media/posts/1/gallery/C7E5FAD0-50ED-46AD-A67D-E644C49B6FD7-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
-<figcaption>river 2</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/1/gallery/44AF1B2D-69B3-4204-BBFD-A61E62481ECB-2.jpeg" data-size="4032x3024"><img loading="lazy" src="https://angelikapaints.com/media/posts/1/gallery/44AF1B2D-69B3-4204-BBFD-A61E62481ECB-2-thumbnail.jpeg" alt="" width="720" height="540"></a>
-<figcaption>river 3</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/1/gallery/0FF79EAD-A31C-480C-A4FB-C8FF9039F8C8.jpeg" data-size="4032x3024"><img loading="lazy" src="https://angelikapaints.com/media/posts/1/gallery/0FF79EAD-A31C-480C-A4FB-C8FF9039F8C8-thumbnail.jpeg" alt="" width="720" height="540"></a>
-<figcaption>bade strand</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/1/gallery/8C6E8B60-3DF5-46BF-88F4-BA1060C7CFC9.jpeg" data-size="4032x3024"><img loading="lazy" src="https://angelikapaints.com/media/posts/1/gallery/8C6E8B60-3DF5-46BF-88F4-BA1060C7CFC9-thumbnail.jpeg" alt="" width="720" height="540"></a>
-<figcaption>strand</figcaption>
-</figure>
+<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/A9BD8D87-5DC2-48F6-AA11-C30E9287E273.jpeg" data-size="4032x3024"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/A9BD8D87-5DC2-48F6-AA11-C30E9287E273-thumbnail.jpeg" alt="" width="768" height="576"></a></figure>
 </div></div>
             ]]>
         </content>
