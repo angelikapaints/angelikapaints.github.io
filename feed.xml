@@ -3,7 +3,7 @@
     <title>GraphicANA</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-08-13T20:42:07+02:00</updated>
+    <updated>2021-08-13T20:46:10+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://angelikapaints.com/animal-tales/"/>
         <id>https://angelikapaints.com/animal-tales/</id>
 
-        <updated>2021-08-13T20:24:54+02:00</updated>
+        <updated>2021-08-13T20:46:10+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/12/IMG_8122D.jpeg" alt="" />
@@ -31,13 +31,18 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/12/gallery/117829744_10224083860708386_8486434090772642232_n-2.jpg" data-size="640x2682">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/117829744_10224083860708386_8486434090772642232_n-2-thumbnail.jpg" height="2682" width="640" alt="" />
+      <a href="https://angelikapaints.com/media/posts/12/gallery/141965001_10225432177455462_1047927943215987063_n-2.jpg" data-size="960x720">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/141965001_10225432177455462_1047927943215987063_n-2-thumbnail.jpg" height="576" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/12/gallery/IMG_9048-2.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/IMG_9048-2-thumbnail.jpeg" height="320" width="240" alt="" />
+      <a href="https://angelikapaints.com/media/posts/12/gallery/Zebe2-2.jpeg" data-size="960x804">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/Zebe2-2-thumbnail.jpeg" height="643" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/12/gallery/Zebe1-2.jpeg" data-size="960x950">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/Zebe1-2-thumbnail.jpeg" height="760" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
@@ -56,8 +61,18 @@
       </a>
       
     </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/12/gallery/IMG_9048-2.jpeg" data-size="240x320">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/IMG_9048-2-thumbnail.jpeg" height="320" width="240" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
       <a href="https://angelikapaints.com/media/posts/12/gallery/IMG_6635.jpeg" data-size="298x320">
         <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/IMG_6635-thumbnail.jpeg" height="320" width="298" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/12/gallery/IMG_7573D.jpeg" data-size="229x320">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/IMG_7573D-thumbnail.jpeg" height="320" width="229" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
@@ -71,28 +86,13 @@
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/12/gallery/IMG_7573D.jpeg" data-size="229x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/IMG_7573D-thumbnail.jpeg" height="320" width="229" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
       <a href="https://angelikapaints.com/media/posts/12/gallery/IMG_8122D.jpeg" data-size="240x320">
         <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/IMG_8122D-thumbnail.jpeg" height="320" width="240" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/12/gallery/141965001_10225432177455462_1047927943215987063_n-2.jpg" data-size="960x720">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/141965001_10225432177455462_1047927943215987063_n-2-thumbnail.jpg" height="576" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/12/gallery/Zebe1-2.jpeg" data-size="960x950">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/Zebe1-2-thumbnail.jpeg" height="760" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/12/gallery/Zebe2-2.jpeg" data-size="960x804">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/Zebe2-2-thumbnail.jpeg" height="643" width="768" alt="" />
+      <a href="https://angelikapaints.com/media/posts/12/gallery/117829744_10224083860708386_8486434090772642232_n-2.jpg" data-size="640x2682">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/12/gallery/117829744_10224083860708386_8486434090772642232_n-2-thumbnail.jpg" height="2682" width="640" alt="" />
       </a>
       
     </figure>
