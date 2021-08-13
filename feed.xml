@@ -3,7 +3,7 @@
     <title>GraphicANA</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-08-13T20:26:45+02:00</updated>
+    <updated>2021-08-13T20:42:07+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -250,25 +250,20 @@
         <link href="https://angelikapaints.com/food-plus/"/>
         <id>https://angelikapaints.com/food-plus/</id>
 
-        <updated>2021-08-13T17:33:01+02:00</updated>
+        <updated>2021-08-13T20:38:08+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://angelikapaints.com/media/posts/10/IMG_8354D.jpeg" alt="" />
+                        <img src="https://angelikapaints.com/media/posts/10/13938201_10210673167689442_6515254301528788905_o.jpg" alt="" />
                      
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://angelikapaints.com/media/posts/10/IMG_8354D.jpeg" alt="" />
+                    <img src="https://angelikapaints.com/media/posts/10/13938201_10210673167689442_6515254301528788905_o.jpg" alt="" />
                 
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/10/gallery/187290993_10226341828876179_3535842016233953897_n.jpg" data-size="3142x640">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/187290993_10226341828876179_3535842016233953897_n-thumbnail.jpg" height="156" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
       <a href="https://angelikapaints.com/media/posts/10/gallery/235349006_10226942817660523_1944814693483331390_n.jpg" data-size="640x2686">
         <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/235349006_10226942817660523_1944814693483331390_n-thumbnail.jpg" height="2686" width="640" alt="" />
       </a>
@@ -276,6 +271,11 @@
     </figure><figure class="gallery__item">
       <a href="https://angelikapaints.com/media/posts/10/gallery/235764686_10226942818660548_1978866603266515392_n.jpg" data-size="640x2588">
         <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/235764686_10226942818660548_1978866603266515392_n-thumbnail.jpg" height="2588" width="640" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/10/gallery/187290993_10226341828876179_3535842016233953897_n-2.jpg" data-size="640x3142">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/187290993_10226341828876179_3535842016233953897_n-2-thumbnail.jpg" height="3142" width="640" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
@@ -299,23 +299,13 @@
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/10/gallery/11206030_10207099381307016_6671363133788534328_n.jpg" data-size="924x960">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/11206030_10207099381307016_6671363133788534328_n-thumbnail.jpg" height="798" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/10/gallery/11246020_10207022150816302_4137861913893029636_n-1.jpg" data-size="729x960">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/11246020_10207022150816302_4137861913893029636_n-1-thumbnail.jpg" height="960" width="729" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
       <a href="https://angelikapaints.com/media/posts/10/gallery/11246020_10207022150816302_4137861913893029636_n.jpg" data-size="729x960">
         <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/11246020_10207022150816302_4137861913893029636_n-thumbnail.jpg" height="960" width="729" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/10/gallery/13938201_10210673167689442_6515254301528788905_o.jpg" data-size="2598x487">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/13938201_10210673167689442_6515254301528788905_o-thumbnail.jpg" height="144" width="768" alt="" />
+      <a href="https://angelikapaints.com/media/posts/10/gallery/11206030_10207099381307016_6671363133788534328_n.jpg" data-size="924x960">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/11206030_10207099381307016_6671363133788534328_n-thumbnail.jpg" height="798" width="768" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
@@ -324,8 +314,18 @@
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/10/gallery/38273662_10217402959690036_8062105427971670016_n.jpg" data-size="960x636">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/38273662_10217402959690036_8062105427971670016_n-thumbnail.jpg" height="509" width="768" alt="" />
+      <a href="https://angelikapaints.com/media/posts/10/gallery/38273662_10217402959690036_8062105427971670016_n-2.jpg" data-size="960x636">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/38273662_10217402959690036_8062105427971670016_n-2-thumbnail.jpg" height="509" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/10/gallery/18664424_10213635827434084_3683370213025355386_n.jpg" data-size="684x894">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/18664424_10213635827434084_3683370213025355386_n-thumbnail.jpg" height="894" width="684" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/10/gallery/IMG_8354D.jpeg" data-size="320x240">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/10/gallery/IMG_8354D-thumbnail.jpeg" height="240" width="320" alt="" />
       </a>
       
     </figure>
@@ -662,7 +662,7 @@
         <link href="https://angelikapaints.com/trees/"/>
         <id>https://angelikapaints.com/trees/</id>
 
-        <updated>2021-08-13T17:25:24+02:00</updated>
+        <updated>2021-08-13T20:42:07+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/7/12342617_10208590648187756_3888487879663269431_n.jpg" alt="" />
@@ -733,6 +733,11 @@
     </figure><figure class="gallery__item">
       <a href="https://angelikapaints.com/media/posts/7/gallery/Vertical-BirchTrees.jpeg" data-size="1000x1500">
         <img loading="lazy" src="https://angelikapaints.com/media/posts/7/gallery/Vertical-BirchTrees-thumbnail.jpeg" height="1152" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/7/gallery/205755_10200543002041632_649541471_n.jpg" data-size="713x960">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/7/gallery/205755_10200543002041632_649541471_n-thumbnail.jpg" height="960" width="713" alt="" />
       </a>
       
     </figure>
@@ -1028,7 +1033,7 @@
         <link href="https://angelikapaints.com/nature-variations-1/"/>
         <id>https://angelikapaints.com/nature-variations-1/</id>
 
-        <updated>2021-08-13T20:26:45+02:00</updated>
+        <updated>2021-08-13T20:28:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/3/14317506_10211018562564098_4318985455081103441_n.jpg" alt="" />
