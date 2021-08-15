@@ -3,7 +3,7 @@
     <title>GraphicANA</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-08-15T17:39:53+02:00</updated>
+    <updated>2021-08-15T17:56:31+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -1145,7 +1145,7 @@
         <link href="https://angelikapaints.com/my-homepage/"/>
         <id>https://angelikapaints.com/my-homepage/</id>
 
-        <updated>2021-08-15T17:39:53+02:00</updated>
+        <updated>2021-08-15T17:56:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/2/068F09F9-8AF6-4417-A2B6-DF992DF719A8.jpeg" alt="Lemon in Oil on Wood" />
@@ -1155,11 +1155,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://angelikapaints.com/media/posts/2/068F09F9-8AF6-4417-A2B6-DF992DF719A8.jpeg" alt="Lemon in Oil on Wood" />
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/Landscape.jpeg" data-size="640x480"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/Landscape-thumbnail.jpeg" alt="" width="640" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/Zebe1.jpeg" data-size="960x950"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/Zebe1-thumbnail.jpeg" alt="" width="768" height="760"></a></figure>
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/Zebe2.jpeg" data-size="960x804"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/Zebe2-thumbnail.jpeg" alt="" width="768" height="643"></a></figure>
-<figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/House-Sunset.jpeg" data-size="450x640"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/House-Sunset-thumbnail.jpeg" alt="" width="450" height="640"></a></figure>
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="1">
 <figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/2/gallery/Schafer_BerlinMarathon20181.jpeg" data-size="3646x2430"><img loading="lazy" src="https://angelikapaints.com/media/posts/2/gallery/Schafer_BerlinMarathon20181-thumbnail.jpeg" alt="" width="768" height="512"></a></figure>
 </div></div>
 <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">GraphicAna   email: <a title="mailto:angelika2schafer@gmail.com" target="null">Angelika Paints email</a><br>|| A Visual Diary ||   Instagram: <a title="https://www.instagram.com/needs_2_paint/" target="_blank" rel="noopener noreferrer">needs2paint</a><br></span>“Ich bin eine Berlinerin!”</p>
