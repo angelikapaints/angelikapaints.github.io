@@ -3,7 +3,7 @@
     <title>GraphicANA</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-08-29T20:08:55+02:00</updated>
+    <updated>2021-08-29T20:15:03+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -855,16 +855,16 @@
         <link href="https://angelikapaints.com/augen-or-eyes/"/>
         <id>https://angelikapaints.com/augen-or-eyes/</id>
 
-        <updated>2021-08-13T19:14:55+02:00</updated>
+        <updated>2021-08-29T20:15:03+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://angelikapaints.com/media/posts/5/Elli.jpg" alt="" />
+                        <img src="https://angelikapaints.com/media/posts/5/Screenshot-2021-08-29-at-20.12.19.png" alt="" />
                      
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://angelikapaints.com/media/posts/5/Elli.jpg" alt="" />
+                    <img src="https://angelikapaints.com/media/posts/5/Screenshot-2021-08-29-at-20.12.19.png" alt="" />
                 
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
@@ -994,8 +994,13 @@
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/5/gallery/Screenshot-2021-08-13-at-16.34.04.png" data-size="1964x1362">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/5/gallery/Screenshot-2021-08-13-at-16.34.04-thumbnail.png" height="533" width="768" alt="" />
+      <a href="https://angelikapaints.com/media/posts/5/gallery/16195627_10212398121732215_1771097599377553318_n-2.jpg" data-size="960x960">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/5/gallery/16195627_10212398121732215_1771097599377553318_n-2-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/5/gallery/Elli.jpg" data-size="3868x2952">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/5/gallery/Elli-thumbnail.jpg" height="586" width="768" alt="" />
       </a>
       
     </figure>
