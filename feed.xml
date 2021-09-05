@@ -3,7 +3,7 @@
     <title>GraphicANA</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2021-08-29T20:20:53+02:00</updated>
+    <updated>2021-09-05T19:00:55+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://angelikapaints.com/stories/"/>
         <id>https://angelikapaints.com/stories/</id>
 
-        <updated>2021-08-29T18:43:58+02:00</updated>
+        <updated>2021-09-05T19:00:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/13/12719234_10209119549369955_5197330497299217184_o.jpg" alt="" />
@@ -99,9 +99,33 @@
         <img loading="lazy" src="https://angelikapaints.com/media/posts/13/gallery/14642200_10211319168799066_3356045716203316937_n-thumbnail.jpg" height="519" width="768" alt="" />
       </a>
       
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/13/gallery/2A7E5BD4-EBAD-411B-B512-3A313DA5B1EE.jpeg" data-size="8732x3698">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/13/gallery/2A7E5BD4-EBAD-411B-B512-3A313DA5B1EE-thumbnail.jpeg" height="325" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/13/gallery/BD686EE5-3353-40E9-A777-DCD3FC6833FA.jpeg" data-size="4032x3024">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/13/gallery/BD686EE5-3353-40E9-A777-DCD3FC6833FA-thumbnail.jpeg" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/13/gallery/E6FA3076-F049-4F02-A4CB-DE67082A2B6E.jpeg" data-size="4032x3024">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/13/gallery/E6FA3076-F049-4F02-A4CB-DE67082A2B6E-thumbnail.jpeg" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/13/gallery/8CA3CB22-80EB-48CC-9BDD-750920AB3B7F.jpeg" data-size="4032x3024">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/13/gallery/8CA3CB22-80EB-48CC-9BDD-750920AB3B7F-thumbnail.jpeg" height="576" width="768" alt="" />
+      </a>
+      
     </figure>
     </div>
   </div>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
