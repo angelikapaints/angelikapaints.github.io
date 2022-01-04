@@ -3,7 +3,7 @@
     <title>GraphicANA</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2022-01-04T18:07:10+01:00</updated>
+    <updated>2022-01-04T19:40:51+01:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -667,7 +667,7 @@
         <link href="https://angelikapaints.com/aquarelle-melodies/"/>
         <id>https://angelikapaints.com/aquarelle-melodies/</id>
 
-        <updated>2021-08-29T20:20:25+02:00</updated>
+        <updated>2022-01-04T19:40:51+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/8/Screenshot-2021-08-29-at-20.18.26.png" alt="Landscape" />
@@ -823,6 +823,36 @@
         <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7502-thumbnail.jpeg" height="240" width="320" alt="" />
       </a>
       
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_1985.jpeg" data-size="240x320">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_1985-thumbnail.jpeg" height="320" width="240" alt="" />
+      </a>
+      <figcaption>Winter Post Card Landscape 1</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_1976.jpeg" data-size="317x320">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_1976-thumbnail.jpeg" height="320" width="317" alt="" />
+      </a>
+      <figcaption>Winter Post Card Landscape 2</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_1970D.jpeg" data-size="320x240">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_1970D-thumbnail.jpeg" height="240" width="320" alt="" />
+      </a>
+      <figcaption>Winter Post Card Landscape 3</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_1569.jpeg" data-size="240x320">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_1569-thumbnail.jpeg" height="320" width="240" alt="" />
+      </a>
+      <figcaption>Fichten-Nadel-Likör</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/8/gallery/Screenshot-2022-01-04-at-19.38.40.png" data-size="1242x1744">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/Screenshot-2022-01-04-at-19.38.40-thumbnail.png" height="1078" width="768" alt="" />
+      </a>
+      <figcaption>Winter Walk</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/8/gallery/Screenshot-2022-01-04-at-19.39.01.png" data-size="1342x1486">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/Screenshot-2022-01-04-at-19.39.01-thumbnail.png" height="850" width="768" alt="" />
+      </a>
+      <figcaption>Xmas Ball Close-up</figcaption>
     </figure>
     </div>
   </div>
