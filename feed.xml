@@ -3,12 +3,51 @@
     <title>GraphicANA</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2022-01-04T20:30:22+01:00</updated>
+    <updated>2022-01-09T15:19:51+01:00</updated>
     <author>
         <name>Angelika</name>
     </author>
     <id>https://angelikapaints.com</id>
 
+    <entry>
+        <title>Ceramics</title>
+        <author>
+            <name>Angelika</name>
+        </author>
+        <link href="https://angelikapaints.com/ceramics/"/>
+        <id>https://angelikapaints.com/ceramics/</id>
+
+        <updated>2022-01-09T15:19:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Process and hand-building with clay 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Process and hand-building with clay
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="file:///Users/angelika/Documents/Publii/sites/graphicana/input/media/posts/temp/gallery/2019-12-28_12-58-37_820.jpeg" data-size="3024x4032">
+        <img loading="lazy" src="file:///Users/angelika/Documents/Publii/sites/graphicana/input/media/posts/temp/gallery/2019-12-28_12-58-37_820-thumbnail.jpeg" height="1024" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="file:///Users/angelika/Documents/Publii/sites/graphicana/input/media/posts/temp/gallery/2019-12-30_22-38-38_060.jpeg" data-size="3024x4032">
+        <img loading="lazy" src="file:///Users/angelika/Documents/Publii/sites/graphicana/input/media/posts/temp/gallery/2019-12-30_22-38-38_060-thumbnail.jpeg" height="1024" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Life Wood</title>
         <author>
@@ -1134,103 +1173,6 @@
   <p>
     
   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nature Variation #1</title>
-        <author>
-            <name>Angelika</name>
-        </author>
-        <link href="https://angelikapaints.com/nature-abstractions-1/"/>
-        <id>https://angelikapaints.com/nature-abstractions-1/</id>
-
-        <updated>2021-08-29T18:17:38+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://angelikapaints.com/media/posts/4/119277948_10224339430817479_3627304371753918764_n.jpg" alt="Winter Silver" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://angelikapaints.com/media/posts/4/119277948_10224339430817479_3627304371753918764_n.jpg" alt="Winter Silver" />
-                
-  <div  class="gallery-wrapper gallery-wrapper--center">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/1_17_2015.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/1_17_2015-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/1_30.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/1_30-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/1-21_2015.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/1-21_2015-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/3_30.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/3_30-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/7_30.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/7_30-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/10_30.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/10_30-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/12_17_14.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/12_17_14-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/16a_30.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/16a_30-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/16b_30.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/16b_30-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/23_30.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/23_30-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/29_30.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/29_30-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/Address_Painting.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/Address_Painting-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/Address_Painting1.jpeg" data-size="640x480">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/Address_Painting1-thumbnail.jpeg" height="480" width="640" alt="" />
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/4/gallery/Red_purple_30x30.jpg" data-size="1500x1500">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/4/gallery/Red_purple_30x30-thumbnail.jpg" height="768" width="768" alt="" />
-      </a>
-      
-    </figure>
-    </div>
-  </div>
             ]]>
         </content>
     </entry>
