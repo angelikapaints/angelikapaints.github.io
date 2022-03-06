@@ -3,7 +3,7 @@
     <title>GraphicANA</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2022-01-09T18:19:09+01:00</updated>
+    <updated>2022-03-06T21:09:22+01:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -100,7 +100,7 @@
         <link href="https://angelikapaints.com/stories/"/>
         <id>https://angelikapaints.com/stories/</id>
 
-        <updated>2021-09-05T19:00:55+02:00</updated>
+        <updated>2022-03-06T21:09:22+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/13/12719234_10209119549369955_5197330497299217184_o.jpg" alt="" />
@@ -118,6 +118,11 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/13/gallery/286776D0-AF44-4B75-8BA4-C7D4223CDEA3.jpeg" data-size="1440x1465">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/13/gallery/286776D0-AF44-4B75-8BA4-C7D4223CDEA3-thumbnail.jpeg" height="781" width="768" alt="" />
+      </a>
+      <figcaption>Red Poppies - Pray for Peace</figcaption>
+    </figure><figure class="gallery__item">
       <a href="https://angelikapaints.com/media/posts/13/gallery/236340867_10226955777944522_86479811890261460_n.jpg" data-size="720x960">
         <img loading="lazy" src="https://angelikapaints.com/media/posts/13/gallery/236340867_10226955777944522_86479811890261460_n-thumbnail.jpg" height="960" width="720" alt="" />
       </a>
