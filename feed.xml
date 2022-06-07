@@ -3,7 +3,7 @@
     <title>GraphicANA</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2022-03-06T21:20:47+01:00</updated>
+    <updated>2022-05-03T17:42:52+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -56,10 +56,10 @@
         <link href="https://angelikapaints.com/life-wood/"/>
         <id>https://angelikapaints.com/life-wood/</id>
 
-        <updated>2022-01-04T18:07:10+01:00</updated>
+        <updated>2022-05-03T17:40:23+02:00</updated>
             <summary>
                 <![CDATA[
-                     Every Found Wood Pieces is unique. It has a story and then I paint them.&nbsp; 
+                     New Studio Space in Esslingen Every Found Wood Pieces is unique. It has a story and then I paint&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -68,6 +68,11 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/14/gallery/F1A943AB-4310-49E2-B405-2AD1D5ADF031_1_105_c.jpeg" data-size="793x991">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/14/gallery/F1A943AB-4310-49E2-B405-2AD1D5ADF031_1_105_c-thumbnail.jpeg" height="960" width="768" alt="" />
+      </a>
+      <figcaption>New Studio Space in Esslingen</figcaption>
+    </figure><figure class="gallery__item">
       <a href="https://angelikapaints.com/media/posts/14/gallery/kerze.jpg" data-size="3024x4032">
         <img loading="lazy" src="https://angelikapaints.com/media/posts/14/gallery/kerze-thumbnail.jpg" height="1024" width="768" alt="" />
       </a>
@@ -82,7 +87,12 @@
 
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
-      
+      <figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/14/gallery/2022-02-26_16-14-43_066.jpeg" data-size="1440x1800">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/14/gallery/2022-02-26_16-14-43_066-thumbnail.jpeg" height="960" width="768" alt="" />
+      </a>
+      <figcaption>Peace IS the only Answer</figcaption>
+    </figure>
     </div>
   </div>
 
@@ -100,7 +110,7 @@
         <link href="https://angelikapaints.com/stories/"/>
         <id>https://angelikapaints.com/stories/</id>
 
-        <updated>2022-03-06T21:20:47+01:00</updated>
+        <updated>2022-05-03T17:42:52+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/13/12719234_10209119549369955_5197330497299217184_o.jpg" alt="" />
