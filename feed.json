@@ -16,13 +16,14 @@
             "title": "AKTIONSTAG Kultur 23. September, 2023",
             "summary": " ",
             "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--center\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/18/gallery/AKTIONSTAG-Karte-Web.png\" data-size=\"2000x1414\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/18/gallery/AKTIONSTAG-Karte-Web-thumbnail.png\" height=\"543\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/18/gallery/AKTIONSTAG-PROGRAMM-Website.png\" data-size=\"1750x1237\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/18/gallery/AKTIONSTAG-PROGRAMM-Website-thumbnail.png\" height=\"543\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://angelikapaints.com/media/posts/18/gallery/Poster-web.png\" data-size=\"1414x2000\">\n        <img loading=\"lazy\" src=\"https://angelikapaints.com/media/posts/18/gallery/Poster-web-thumbnail.png\" height=\"1086\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://angelikapaints.com/media/posts/18/Poster-web.png",
             "author": {
                 "name": "Angelika"
             },
             "tags": [
             ],
             "date_published": "2023-07-10T20:50:48+02:00",
-            "date_modified": "2023-07-10T21:13:17+02:00"
+            "date_modified": "2023-08-12T13:05:40+02:00"
         },
         {
             "id": "https://angelikapaints.com/cv-lebenslauf/",
