@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2023-08-13T20:31:12+02:00</updated>
+    <updated>2023-08-13T21:40:54+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -17,17 +17,16 @@
         <link href="https://angelikapaints.com/hello-world/"/>
         <id>https://angelikapaints.com/hello-world/</id>
 
-        <updated>2023-08-13T20:31:12+02:00</updated>
+        <updated>2023-08-13T21:40:54+02:00</updated>
             <summary>
                 <![CDATA[
-                    Welcome to Angelika Paints Art Studio: Are you ready to explore the world of art and unleash your inner artist?&hellip;
+                    Welcome to Angelika Paints Art Studio: Experience a creative journey at Angelika Paints Art Studio with personalized Individual Lessons in Painting,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="msg msg--highlight  align-left"><span style="color: #236fa1;">Welcome to Angelika Paints Art Studio: </span></p>
-<p>Are you ready to explore the world of art and unleash your inner artist? Look no further than Angelika Paints Art Studio, where we offer a diverse range of art lessons tailored to individuals of all ages and skill levels. Whether you're a beginner with a passion for painting or an experienced artist looking to refine your techniques, our studio provides a nurturing environment for artistic growth and expression. </p>
-<p><strong><a href="#individuallessons">Individ</a></strong><strong><a href="#individuallessons">ual Lessons</a><br><a href="#painting">Painting</a><br>Drawing<br></strong></p>
+<p>Experience a creative journey at <strong>Angelika Paints Art Studio</strong> with personalized <strong><a href="#individuallessons">Individ</a></strong><strong><a href="#individuallessons">ual Lessons</a></strong> in <strong><a href="#painting">Painting</a></strong>, <strong><a href="#drawing">Drawing</a></strong>, and <strong><a href="#pottery">Pottery</a></strong>, collaborative <strong> <a href="#smallgrouplessons">Small Group Lessons</a></strong>, immersive painting experiences encompassing vibrant landscapes to abstract expressions, guided drawing instruction including figure drawing and shading, hands-on pottery creation covering wheel throwing, hand-building, and glazing techniques, and elevate your artistic experience at the <strong><a href="#specialevents">Special Events</a></strong> such as <strong><a href="#sip">Sip and Paint Event</a></strong>, where no prior experience is needed to enjoy local wine, add your touch to canvas, and take home both your artwork and a local gift certificate.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/1/gallery/2020-02-27_17-28-40_942-2.jpeg" data-size="4032x3024"><img loading="lazy" src="https://angelikapaints.com/media/posts/1/gallery/2020-02-27_17-28-40_942-2-thumbnail.jpeg" alt="Clay Coil Building" width="768" height="576"></a>
 <figcaption>Clay Coil Building</figcaption>
@@ -100,13 +99,13 @@
 <div class="min-h-[20px] flex items-start overflow-x-auto whitespace-pre-wrap break-words flex-col gap-4">
 <div class="markdown prose w-full break-words dark:prose-invert light">
 <p id="individuallessons"><strong>Individual Lessons:</strong> At Angelika Paints Art Studio, we understand that personalised attention is key to unlocking your artistic potential. Our one-on-one art lessons provide the perfect opportunity to receive focused guidance and mentorship. Whether you're interested in painting, drawing, or pottery, our expert instructors will tailor the curriculum to your specific interests and skill level. With individual lessons, you can progress at your own pace and receive personalised feedback, ensuring that you make steady strides in your artistic journey. </p>
-<p id="painting"><strong>Painting:</strong> Experience the joy of painting at our art studio. Whether you dream of creating vibrant landscapes, captivating portraits, or abstract masterpieces, our painting lessons cater to all styles and genres. Our experienced instructors will guide you through various techniques, from brushwork and color mixing to composition and texture. Discover the power of self-expression through paint and let your imagination soar.</p>
-<p><strong>Drawing</strong>: Discover the art of drawing at Angelika Paints Art Studio. Our drawing lessons cover a wide range of subjects, from still life and figure drawing to perspective and shading. Learn fundamental drawing techniques, develop your observation skills, and explore various mediums such as pencils, charcoal, and ink. Whether you're a beginner or looking to refine your drawing abilities, our instructors will provide guidance and support every step of the way.</p>
-<p><strong>Pottery:</strong>  Explore the tactile art of clay and learn the techniques of wheel throwing, hand-building, and glazing. From creating functional pottery to sculptural forms, our pottery classes cater to all interests. Our instructors will guide you through the entire process, from shaping the clay to firing and finishing your masterpiece. Get your hands dirty and experience the joy of working with this versatile medium.</p>
 <p><strong>Small Groups</strong>: If you prefer a collaborative and social learning experience, our studio also offers small group lessons. Gather a few friends, family members, or colleagues and embark on an artistic journey together. Our small group sessions foster a supportive and interactive environment, where you can learn from each other's experiences and create meaningful connections. Share the joy of art while receiving expert guidance from our instructors.</p>
-<p><strong>Special Events:</strong> Sip and Paint Events! Join us for a night of creativity, laughter, and sipping as we host a captivating Sip and Paint event! Guided Painting: Our talented artist will lead you step by step through creating your own masterpiece. No experience required! Sip &amp; Socialize: Enjoy your favorite local wine (also non-alcoholic wine or juice) while connecting with fellow participants in a relaxed and friendly atmosphere. Let your imagination run wild as you add your personal touch to your canvas. All Art Supplies: Canvases, paints, brushes, aprons – we've got everything covered. 🥂 Complimentary Drink: Choose from a selection of wines, beers, or non-alcoholic options. Take-Home Art: Bring your creation home to showcase your artistic prowess plus a gift certificate to a local wine shop.</p>
-<p><strong>For Children to Adults:</strong> At Angelika Paints Art Studio, we believe that art has no age restrictions. Our lessons cater to a diverse range of age groups, ensuring that both children and adults can explore their creative side. Whether you're a young aspiring artist discovering your talents or an adult seeking a creative outlet, our instructors will provide age-appropriate guidance and encouragement.</p>
-<p>Unlock your artistic potential and embark on a transformative journey at Angelika Paints Art Studio. Contact us today to schedule your first lesson and let your creativity soar to new heights. Join our vibrant community of artists and ignite your passion for art!</p>
+<p id="painting"><strong>Painting:</strong> Experience the joy of painting at our art studio. Whether you dream of creating vibrant landscapes, captivating portraits, or abstract masterpieces, our painting lessons cater to all styles and genres. Our experienced instructors will guide you through various techniques, from brushwork and color mixing to composition and texture. Discover the power of self-expression through paint and let your imagination soar.</p>
+<p id="drawing"><strong>Drawing</strong>: Discover the art of drawing at Angelika Paints Art Studio. Our drawing lessons cover a wide range of subjects, from still life and figure drawing to perspective and shading. Learn fundamental drawing techniques, develop your observation skills, and explore various mediums such as pencils, charcoal, and ink. Whether you're a beginner or looking to refine your drawing abilities, our instructors will provide guidance and support every step of the way.</p>
+<p><strong>Pottery:</strong>  Explore the tactile art of clay and learn the techniques of wheel throwing, hand-building, and glazing. From creating functional pottery to sculptural forms, our pottery classes cater to all interests. Our instructors will guide you through the entire process, from shaping the clay to firing and finishing your masterpiece. Get your hands dirty and experience the joy of working with this versatile medium.</p>
+<p><strong>Special Events:</strong> Sip and Paint Events! Join us for a night of creativity, laughter, and sipping as we host a captivating</p>
+<p id="sip"><strong>Sip and Paint event</strong>! Guided Painting: Our talented artist will lead you step by step through creating your own masterpiece. No experience required! Sip &amp; Socialise: Enjoy your favourite local wine (also non-alcoholic wine or juice) while connecting with fellow participants in a relaxed and friendly atmosphere. Let your imagination run wild as you add your personal touch to your canvas. All Art Supplies: Canvases, paints, brushes, aprons – we've got everything covered. 🥂 Complimentary Drink: Choose from a selection of wines, beers, or non-alcoholic options. Take-Home Art: Bring your creation home to showcase your artistic prowess plus a gift certificate to a local wine shop.</p>
+<p> </p>
 </div>
 </div>
 </div>
