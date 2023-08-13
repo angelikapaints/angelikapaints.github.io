@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2023-08-12T13:13:36+02:00</updated>
+    <updated>2023-08-13T20:31:12+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://angelikapaints.com/hello-world/"/>
         <id>https://angelikapaints.com/hello-world/</id>
 
-        <updated>2023-08-12T13:13:36+02:00</updated>
+        <updated>2023-08-13T20:31:12+02:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to Angelika Paints Art Studio: Are you ready to explore the world of art and unleash your inner artist?&hellip;
@@ -27,6 +27,7 @@
             <![CDATA[
                 <p class="msg msg--highlight  align-left"><span style="color: #236fa1;">Welcome to Angelika Paints Art Studio: </span></p>
 <p>Are you ready to explore the world of art and unleash your inner artist? Look no further than Angelika Paints Art Studio, where we offer a diverse range of art lessons tailored to individuals of all ages and skill levels. Whether you're a beginner with a passion for painting or an experienced artist looking to refine your techniques, our studio provides a nurturing environment for artistic growth and expression. </p>
+<p><strong><a href="#individuallessons">Individ</a></strong><strong><a href="#individuallessons">ual Lessons</a><br><a href="#painting">Painting</a><br>Drawing<br></strong></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://angelikapaints.com/media/posts/1/gallery/2020-02-27_17-28-40_942-2.jpeg" data-size="4032x3024"><img loading="lazy" src="https://angelikapaints.com/media/posts/1/gallery/2020-02-27_17-28-40_942-2-thumbnail.jpeg" alt="Clay Coil Building" width="768" height="576"></a>
 <figcaption>Clay Coil Building</figcaption>
@@ -98,12 +99,12 @@
 <div class="flex flex-grow flex-col gap-3">
 <div class="min-h-[20px] flex items-start overflow-x-auto whitespace-pre-wrap break-words flex-col gap-4">
 <div class="markdown prose w-full break-words dark:prose-invert light">
-<p><strong>Individual Lessons:</strong> At Angelika Paints Art Studio, we understand that personalised attention is key to unlocking your artistic potential. Our one-on-one art lessons provide the perfect opportunity to receive focused guidance and mentorship. Whether you're interested in painting, drawing, or pottery, our expert instructors will tailor the curriculum to your specific interests and skill level. With individual lessons, you can progress at your own pace and receive personalised feedback, ensuring that you make steady strides in your artistic journey.</p>
-<p><strong>Painting:</strong> Experience the joy of painting at our art studio. Whether you dream of creating vibrant landscapes, captivating portraits, or abstract masterpieces, our painting lessons cater to all styles and genres. Our experienced instructors will guide you through various techniques, from brushwork and color mixing to composition and texture. Discover the power of self-expression through paint and let your imagination soar.</p>
+<p id="individuallessons"><strong>Individual Lessons:</strong> At Angelika Paints Art Studio, we understand that personalised attention is key to unlocking your artistic potential. Our one-on-one art lessons provide the perfect opportunity to receive focused guidance and mentorship. Whether you're interested in painting, drawing, or pottery, our expert instructors will tailor the curriculum to your specific interests and skill level. With individual lessons, you can progress at your own pace and receive personalised feedback, ensuring that you make steady strides in your artistic journey. </p>
+<p id="painting"><strong>Painting:</strong> Experience the joy of painting at our art studio. Whether you dream of creating vibrant landscapes, captivating portraits, or abstract masterpieces, our painting lessons cater to all styles and genres. Our experienced instructors will guide you through various techniques, from brushwork and color mixing to composition and texture. Discover the power of self-expression through paint and let your imagination soar.</p>
 <p><strong>Drawing</strong>: Discover the art of drawing at Angelika Paints Art Studio. Our drawing lessons cover a wide range of subjects, from still life and figure drawing to perspective and shading. Learn fundamental drawing techniques, develop your observation skills, and explore various mediums such as pencils, charcoal, and ink. Whether you're a beginner or looking to refine your drawing abilities, our instructors will provide guidance and support every step of the way.</p>
-<p><strong>Pottery:</strong> Unleash your creativity with our pottery lessons. Explore the tactile art of clay and learn the techniques of wheel throwing, hand-building, and glazing. From creating functional pottery to sculptural forms, our pottery classes cater to all interests. Our instructors will guide you through the entire process, from shaping the clay to firing and finishing your masterpiece. Get your hands dirty and experience the joy of working with this versatile medium.</p>
+<p><strong>Pottery:</strong>  Explore the tactile art of clay and learn the techniques of wheel throwing, hand-building, and glazing. From creating functional pottery to sculptural forms, our pottery classes cater to all interests. Our instructors will guide you through the entire process, from shaping the clay to firing and finishing your masterpiece. Get your hands dirty and experience the joy of working with this versatile medium.</p>
 <p><strong>Small Groups</strong>: If you prefer a collaborative and social learning experience, our studio also offers small group lessons. Gather a few friends, family members, or colleagues and embark on an artistic journey together. Our small group sessions foster a supportive and interactive environment, where you can learn from each other's experiences and create meaningful connections. Share the joy of art while receiving expert guidance from our instructors.</p>
-<p><strong>Special Events:</strong> Angelika Paints Art Studio also hosts special events throughout the year. From themed workshops to art exhibitions, these events offer unique opportunities to engage with the local art community and gain inspiration from fellow artists. Keep an eye on our event calendar for exciting workshops, demonstrations, and guest artist appearances.</p>
+<p><strong>Special Events:</strong> Sip and Paint Events! Join us for a night of creativity, laughter, and sipping as we host a captivating Sip and Paint event! Guided Painting: Our talented artist will lead you step by step through creating your own masterpiece. No experience required! Sip &amp; Socialize: Enjoy your favorite local wine (also non-alcoholic wine or juice) while connecting with fellow participants in a relaxed and friendly atmosphere. Let your imagination run wild as you add your personal touch to your canvas. All Art Supplies: Canvases, paints, brushes, aprons – we've got everything covered. 🥂 Complimentary Drink: Choose from a selection of wines, beers, or non-alcoholic options. Take-Home Art: Bring your creation home to showcase your artistic prowess plus a gift certificate to a local wine shop.</p>
 <p><strong>For Children to Adults:</strong> At Angelika Paints Art Studio, we believe that art has no age restrictions. Our lessons cater to a diverse range of age groups, ensuring that both children and adults can explore their creative side. Whether you're a young aspiring artist discovering your talents or an adult seeking a creative outlet, our instructors will provide age-appropriate guidance and encouragement.</p>
 <p>Unlock your artistic potential and embark on a transformative journey at Angelika Paints Art Studio. Contact us today to schedule your first lesson and let your creativity soar to new heights. Join our vibrant community of artists and ignite your passion for art!</p>
 </div>
@@ -771,7 +772,7 @@
         <link href="https://angelikapaints.com/sketchbook-melodies/"/>
         <id>https://angelikapaints.com/sketchbook-melodies/</id>
 
-        <updated>2022-01-09T18:14:42+01:00</updated>
+        <updated>2023-08-12T13:18:41+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/9/7F7D41F1-6014-4167-9FFB-0231799AB11A.jpeg" alt="" />
