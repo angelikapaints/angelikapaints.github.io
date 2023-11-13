@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2023-11-13T09:05:58+01:00</updated>
+    <updated>2023-11-13T10:21:22+01:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://angelikapaints.com/hello-world/"/>
         <id>https://angelikapaints.com/hello-world/</id>
 
-        <updated>2023-11-13T09:05:58+01:00</updated>
+        <updated>2023-11-13T10:07:12+01:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to Angelika Paints Art Studio Willkommen bei Angelika Paints, meiner persönlichen Werkstatt und Atelier für individuellen Kunstunterricht und besondere&hellip;
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--highlight  align-left"><span style="color: #236fa1;">Welcome to Angelika Paints Art Studio</span></p>
+                <p class="msg msg--highlight align-left"><span style="color: #236fa1;">Welcome to Angelika Paints Art Studio</span></p>
 <p>Willkommen bei Angelika Paints, meiner persönlichen Werkstatt und Atelier für individuellen Kunstunterricht und besondere Events wie "Sip &amp; Paint".</p>
 <p>In meiner Werkstatt finden Sie verschiedene Kunstevents, bei denen Besucher und Teilnehmende selbst in die Welt der Kunst eintauchen und ihre eigenen kreativen Fähigkeiten entdecken können. Hier haben Sie nicht nur die Gelegenheit, Ihre eigene künstlerische Vision zu verwirklichen, sondern können auch an individuellem Kunstunterricht teilnehmen.</p>
 <p><strong>Individueller Unterricht:</strong> Für eine persönliche Herangehensweise biete ich Einzelunterricht an. Speziellen Wünsche und Fähigkeiten werden individuell angepasst. Hier erhalten Sie gezielte Anleitung, um in Ihrem eigenen Tempo Fortschritte zu machen.</p>
@@ -118,20 +118,40 @@
         </content>
     </entry>
     <entry>
-        <title>CV- Lebenslauf </title>
+        <title>Vita </title>
         <author>
             <name>Angelika</name>
         </author>
         <link href="https://angelikapaints.com/cv-lebenslauf/"/>
         <id>https://angelikapaints.com/cv-lebenslauf/</id>
 
-        <updated>2023-08-13T21:52:09+02:00</updated>
-            <summary></summary>
+        <updated>2023-11-13T10:21:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Angelika Paints • Privatunterricht • Kreative Workshops • Ottilienplatz 8 in Esslingen am Neckar
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/16/gallery/Vita-A.Schafer-web1.jpg" data-size="2479x3504">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/16/gallery/Vita-A.Schafer-web1-thumbnail.jpg" height="1086" width="768" alt="A Schäfer Vita 1" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/16/gallery/Vita-A.Schafer-web.jpg" data-size="2303x3380">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/16/gallery/Vita-A.Schafer-web-thumbnail.jpg" height="1127" width="768" alt="A Schäfer Vita 1b" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
   <p>
-    
+    <a href="mailto:me@angelikapaints.com" target="_blank">Angelika Paints</a> • Privatunterricht • Kreative Workshops •<br>Ottilienplatz 8 in Esslingen am Neckar<br>
   </p>
             ]]>
         </content>
@@ -176,17 +196,17 @@
         </content>
     </entry>
     <entry>
-        <title>Life Wood</title>
+        <title>Holz Malgrund</title>
         <author>
             <name>Angelika</name>
         </author>
         <link href="https://angelikapaints.com/life-wood/"/>
         <id>https://angelikapaints.com/life-wood/</id>
 
-        <updated>2023-08-13T22:11:01+02:00</updated>
+        <updated>2023-11-13T10:03:49+01:00</updated>
             <summary>
                 <![CDATA[
-                    New Studio Space in Esslingen Every Found Wood Pieces is unique. It has a story and then I paint them.&nbsp;&hellip;
+                    New Studio Space in Esslingen Jedes gefundene Holzstück ist einzigartig. Es hat eine Geschichte, und dann male ich es. Contact&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -229,12 +249,17 @@
         <img loading="lazy" src="https://angelikapaints.com/media/posts/14/gallery/28514826_10216213578156241_3273878509737174064_o-thumbnail.jpg" height="1019" width="768" alt="" >
       </a>
       
+    </figure><figure class="gallery__item">
+      <a href="https://angelikapaints.com/media/posts/14/gallery/63DD51D8-27EA-40E6-BF97-9484D06938D7.jpeg" data-size="1440x1800">
+        <img loading="lazy" src="https://angelikapaints.com/media/posts/14/gallery/63DD51D8-27EA-40E6-BF97-9484D06938D7-thumbnail.jpeg" height="960" width="768" alt="" >
+      </a>
+      
     </figure>
     </div>
   </div>
 
   <p id="every-found-wood-pieces-is-unique-it-has-a-story-and-then-i-paint-themnbsp">
-    Every Found Wood Pieces is unique. It has a story and then I paint them.&nbsp;
+    Jedes gefundene Holzstück ist einzigartig. Es hat eine Geschichte, und dann male ich es.
   </p>
 
   <div  class="gallery-wrapper">
@@ -255,7 +280,7 @@
         </content>
     </entry>
     <entry>
-        <title>Stories</title>
+        <title>Geschichten</title>
         <author>
             <name>Angelika</name>
         </author>
@@ -263,11 +288,11 @@
         <id>https://angelikapaints.com/stories/</id>
         <media:content url="https://angelikapaints.com/media/posts/13/12719234_10209119549369955_5197330497299217184_o.jpg" medium="image" />
 
-        <updated>2023-08-13T21:46:16+02:00</updated>
+        <updated>2023-11-13T09:52:26+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/13/12719234_10209119549369955_5197330497299217184_o.jpg" alt="" />
-                    All my paintings start with a story. The stories going through transformations and often take twists and turns until I&hellip;
+                    Meine Arbeiten beginnen mit einer Geschichte. Die Geschichten durchlaufen Veränderungen und nehmen oft unerwartete Wendungen, bis ich mich entscheide, sie&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -275,7 +300,7 @@
                     <p><img src="https://angelikapaints.com/media/posts/13/12719234_10209119549369955_5197330497299217184_o.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    All my paintings start with a story. The stories going through transformations and often take twists and turns until I decide to finish it start a new story.&nbsp;
+    Meine Arbeiten beginnen mit einer Geschichte. Die Geschichten durchlaufen Veränderungen und nehmen oft unerwartete Wendungen, bis ich mich entscheide, sie zu beenden und eine neue Geschichte zu beginnen.
   </p>
 
   <div  class="gallery-wrapper">
@@ -381,7 +406,7 @@
         </content>
     </entry>
     <entry>
-        <title>Animals</title>
+        <title>Tiere</title>
         <author>
             <name>Angelika</name>
         </author>
@@ -389,7 +414,7 @@
         <id>https://angelikapaints.com/animal-tales/</id>
         <media:content url="https://angelikapaints.com/media/posts/12/Screenshot-2021-08-29-at-20.08.21.png" medium="image" />
 
-        <updated>2023-08-13T22:18:30+02:00</updated>
+        <updated>2023-11-13T09:42:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/12/Screenshot-2021-08-29-at-20.08.21.png" alt="" />
@@ -478,7 +503,7 @@
         </content>
     </entry>
     <entry>
-        <title>Land-escapes</title>
+        <title>Landschaften</title>
         <author>
             <name>Angelika</name>
         </author>
@@ -486,7 +511,7 @@
         <id>https://angelikapaints.com/landscapes/</id>
         <media:content url="https://angelikapaints.com/media/posts/11/131684219_1523185438070966_5298005922977409768_n.jpg" medium="image" />
 
-        <updated>2023-08-13T22:18:55+02:00</updated>
+        <updated>2023-11-13T09:43:03+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -615,7 +640,7 @@
         </content>
     </entry>
     <entry>
-        <title>Food +</title>
+        <title>Essen +</title>
         <author>
             <name>Angelika</name>
         </author>
@@ -623,7 +648,7 @@
         <id>https://angelikapaints.com/food-plus/</id>
         <media:content url="https://angelikapaints.com/media/posts/10/13938201_10210673167689442_6515254301528788905_o.jpg" medium="image" />
 
-        <updated>2023-08-13T22:12:15+02:00</updated>
+        <updated>2023-11-13T09:43:14+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/10/13938201_10210673167689442_6515254301528788905_o.jpg" alt="" />
@@ -722,7 +747,7 @@
         </content>
     </entry>
     <entry>
-        <title>Exploring</title>
+        <title>Konzepte Entwickeln</title>
         <author>
             <name>Angelika</name>
         </author>
@@ -730,7 +755,7 @@
         <id>https://angelikapaints.com/sketchbook-melodies/</id>
         <media:content url="https://angelikapaints.com/media/posts/9/7F7D41F1-6014-4167-9FFB-0231799AB11A.jpeg" medium="image" />
 
-        <updated>2023-08-12T13:18:41+02:00</updated>
+        <updated>2023-11-13T09:48:10+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/9/7F7D41F1-6014-4167-9FFB-0231799AB11A.jpeg" alt="" />
@@ -879,7 +904,7 @@
         </content>
     </entry>
     <entry>
-        <title>Aquarelle Melodies</title>
+        <title>Aquarel</title>
         <author>
             <name>Angelika</name>
         </author>
@@ -887,11 +912,11 @@
         <id>https://angelikapaints.com/aquarelle-melodies/</id>
         <media:content url="https://angelikapaints.com/media/posts/8/Screenshot-2021-08-29-at-20.18.26.png" medium="image" />
 
-        <updated>2022-01-04T19:40:51+01:00</updated>
+        <updated>2023-11-13T09:45:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://angelikapaints.com/media/posts/8/Screenshot-2021-08-29-at-20.18.26.png" alt="Landscape" />
-                    Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals for&hellip;
+                    Meistens male ich mit Ölfarben und füge häufig zerrissenes Papier oder gefundene Objekte wie Federn oder Blütenblätter hinzu, um Textur&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -899,11 +924,11 @@
                     <p><img src="https://angelikapaints.com/media/posts/8/Screenshot-2021-08-29-at-20.18.26.png" class="type:primaryImage" alt="Landscape" /></p>
                 
   <p>
-    Mostly, I paint with oil paints and often add ripped paper or found objects such as feathers or petals for texture. When I travel, or sketch ideas, I like to use watercolour paint.&nbsp;
+    Meistens male ich mit Ölfarben und füge häufig zerrissenes Papier oder gefundene Objekte wie Federn oder Blütenblätter hinzu, um Textur zu schaffen. Wenn ich reise oder Ideen skizziere, verwende ich gerne Aquarellfarben.
   </p>
 
   <p>
-    These small paintings are&nbsp; like melodies to a theme that popped into my head or I create them to play with a theme for an oil painting.&nbsp;
+    Diese kleinen Arbeiten sind wie Melodien zu einem Thema, das mir eingefallen ist, oder ich erstelle sie, um mit einem Thema für ein Ölgemälde zu experimentieren.
   </p>
 
   <div  class="gallery-wrapper">
