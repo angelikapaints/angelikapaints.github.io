@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2023-11-13T10:47:43+01:00</updated>
+    <updated>2023-12-03T19:57:12+01:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -16,17 +16,19 @@
         </author>
         <link href="https://angelikapaints.com/hello-world/"/>
         <id>https://angelikapaints.com/hello-world/</id>
+        <media:content url="https://angelikapaints.com/media/posts/1/malnacht1.png" medium="image" />
 
-        <updated>2023-11-13T10:07:12+01:00</updated>
+        <updated>2023-12-03T19:57:12+01:00</updated>
             <summary>
                 <![CDATA[
-                    Welcome to Angelika Paints Art Studio Willkommen bei Angelika Paints, meiner persönlichen Werkstatt und Atelier für individuellen Kunstunterricht und besondere&hellip;
+                        <img src="https://angelikapaints.com/media/posts/1/malnacht1.png" alt="" />
+                    Willkommen bei Angelika Paints, meiner persönlichen Werkstatt und Atelier für individuellen Kunstunterricht und besondere Events wie "Sip &amp; Paint". Am&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="msg msg--highlight align-left"><span style="color: #236fa1;">Welcome to Angelika Paints Art Studio</span></p>
-<p>Willkommen bei Angelika Paints, meiner persönlichen Werkstatt und Atelier für individuellen Kunstunterricht und besondere Events wie "Sip &amp; Paint".</p>
+                    <p><img src="https://angelikapaints.com/media/posts/1/malnacht1.png" class="type:primaryImage" alt="" /></p>
+                <p>Willkommen bei Angelika Paints, meiner persönlichen Werkstatt und Atelier für individuellen Kunstunterricht und besondere Events wie "Sip &amp; Paint". Am 15. Dezember gibt es noch eine Veranstaltung bei der Esslinger Volkshochschule und ab Mitte Januar werden dann auch Workshops hier direkt bei Angelika Paints im Atelier angeboten.</p>
 <p>In meiner Werkstatt finden Sie verschiedene Kunstevents, bei denen Besucher und Teilnehmende selbst in die Welt der Kunst eintauchen und ihre eigenen kreativen Fähigkeiten entdecken können. Hier haben Sie nicht nur die Gelegenheit, Ihre eigene künstlerische Vision zu verwirklichen, sondern können auch an individuellem Kunstunterricht teilnehmen.</p>
 <p><strong>Individueller Unterricht:</strong> Für eine persönliche Herangehensweise biete ich Einzelunterricht an. Speziellen Wünsche und Fähigkeiten werden individuell angepasst. Hier erhalten Sie gezielte Anleitung, um in Ihrem eigenen Tempo Fortschritte zu machen.</p>
 <p><strong>"Sip &amp; Paint" Event:</strong> Genießen Sie gemeinsam mit anderen Kunstinteressierten eine entspannte Atmosphäre bei meinem "Sip &amp; Paint" Event. Hier leite ich Sie als erfahrene Künstlerin Schritt für Schritt an, Ihr eigenes Kunstwerk zu schaffen. Dabei steht der soziale Aspekt im Vordergrund, begleitet von lokalem Wein und einer entspannten Umgebung. </p>
