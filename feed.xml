@@ -3,21 +3,56 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2023-12-03T20:57:17+01:00</updated>
+    <updated>2023-12-29T13:48:39+01:00</updated>
     <author>
         <name>Angelika</name>
     </author>
     <id>https://angelikapaints.com</id>
 
     <entry>
-        <title>Kunst Erleben</title>
+        <title>Individueller Kunst Unterricht</title>
+        <author>
+            <name>Angelika</name>
+        </author>
+        <link href="https://angelikapaints.com/individueller-kunst-unterricht/"/>
+        <id>https://angelikapaints.com/individueller-kunst-unterricht/</id>
+        <media:content url="https://angelikapaints.com/media/posts/19/holz.jpeg" medium="image" />
+
+        <updated>2023-12-29T13:39:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://angelikapaints.com/media/posts/19/holz.jpeg" alt="" />
+                    Events wie "Sip &amp; Paint" und Workshops liegen zwischen 30-40 EUR pro Person. Bitte wenden Sie sich direkt an die&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://angelikapaints.com/media/posts/19/holz.jpeg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://angelikapaints.com/media/posts/19/Preise-web2.png" height="524" width="754" alt=""  sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/19/responsive/Preise-web2-xs.png 300w ,https://angelikapaints.com/media/posts/19/responsive/Preise-web2-sm.png 480w ,https://angelikapaints.com/media/posts/19/responsive/Preise-web2-md.png 768w">
+      
+    </figure>
+
+  <p>
+    Events wie "Sip &amp; Paint" und Workshops liegen zwischen 30-40 EUR pro Person. Bitte wenden Sie sich direkt an die Künstlerin für weitere Informationen.&nbsp;<br><a href="mailto:me@angelikapaints.com">Angelika Paints.</a><br>
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mit Kunst Erleben</title>
         <author>
             <name>Angelika</name>
         </author>
         <link href="https://angelikapaints.com/hello-world/"/>
         <id>https://angelikapaints.com/hello-world/</id>
 
-        <updated>2023-12-03T20:57:17+01:00</updated>
+        <updated>2023-12-29T13:48:39+01:00</updated>
             <summary>
                 <![CDATA[
                     Willkommen bei Angelika Paints, meiner persönlichen Werkstatt und Atelier für individuellen Kunstunterricht und besondere Events wie "Sip &amp; Paint". Am&hellip;
@@ -25,8 +60,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--left"><a href="https://www.vhs-esslingen.de/p/kultur-und-gestalten/malen-zeichnen-drucken/malen-mit-acrylfarben/paint-sip/leckere-mal-nacht-711-C-G651220" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://angelikapaints.com/media/posts/1/malnacht1-2.png" alt="" width="314" height="438" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/1/responsive/malnacht1-2-xs.png 300w ,https://angelikapaints.com/media/posts/1/responsive/malnacht1-2-sm.png 480w ,https://angelikapaints.com/media/posts/1/responsive/malnacht1-2-md.png 768w"></figure></a>Willkommen bei Angelika Paints, meiner persönlichen Werkstatt und Atelier für individuellen Kunstunterricht und besondere Events wie "Sip &amp; Paint". Am 15. Dezember gibt es eine Veranstaltung bei der<span style="color: #34495e;"> <span style="color: #ba372a;"><a href="https://www.vhs-esslingen.de/p/kultur-und-gestalten/malen-zeichnen-drucken/malen-mit-acrylfarben/paint-sip/leckere-mal-nacht-711-C-G651220" title="Sip and Paint Angelika Paints" target="_blank" rel="noopener noreferrer" style="color: #ba372a;">Esslinger Volkshochschule</a></span></span> und ab Mitte Januar werden dann auch Workshops hier direkt bei Angelika Paints im Atelier angeboten.</p>
+                <figure class="post__image post__image--left"><a href="https://www.vhs-esslingen.de/p/kultur-und-gestalten/malen-zeichnen-drucken/malen-mit-acrylfarben/paint-sip/leckere-mal-nacht-711-C-G651220" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://angelikapaints.com/media/posts/1/malnacht1-2.png" alt="" width="271" height="378" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/1/responsive/malnacht1-2-xs.png 300w ,https://angelikapaints.com/media/posts/1/responsive/malnacht1-2-sm.png 480w ,https://angelikapaints.com/media/posts/1/responsive/malnacht1-2-md.png 768w"></figure></a>Willkommen bei Angelika Paints, meiner persönlichen Werkstatt und Atelier für individuellen Kunstunterricht und besondere Events wie "Sip &amp; Paint". Am 15.12.2023 fand das erste mal die "Paint &amp; Sip" Event bei der<span style="color: #34495e;"> <span style="color: #ba372a;"><a href="https://www.vhs-esslingen.de/p/kultur-und-gestalten/malen-zeichnen-drucken/malen-mit-acrylfarben/paint-sip/leckere-mal-nacht-711-C-G651220" title="Sip and Paint Angelika Paints" target="_blank" rel="noopener noreferrer" style="color: #ba372a;">Esslinger Volkshochschule</a></span></span> statt. Ab Februar werden dann auch Workshops bei Angelika Paints im Atelier in Esslingen angeboten.</p>
 <p>In meiner Werkstatt finden Sie verschiedene kreative Events, bei denen Besucher und Teilnehmende selbst in die Welt der Kunst eintauchen und ihre eigenen kreativen Fähigkeiten entdecken können. Hier haben Sie nicht nur die Gelegenheit, Ihre eigene künstlerische Vision zu verwirklichen, sondern können auch an individuellem Kunstunterricht teilnehmen.</p>
+<p><strong>Brush up on your English (<a href="#INTERNAL_LINK#/null/undefined" target="_blank" rel="noopener noreferrer">VHS Kurs Esslingen</a>) NEU im Januar 2024!<br></strong>Förderung im künstlerischen und englischen Ausdruck. Mit dem Pinsel in der Hand und mit einer Esslinger Künstlerin, die 20 Jahre in den USA gelebt und unterrichtet hat, lernen Sie Englisch und freuen sich über Ihre eigenen künstlerischen Resultate. Keine<br>gestalterisch-künstlerischen Erfahrungen oder Englischkenntnisse erforderlichen.</p>
 <p><strong>Individueller Unterricht:</strong> Für eine persönliche Herangehensweise biete ich Einzelunterricht an. Speziellen Wünsche und Fähigkeiten werden individuell angepasst. Hier erhalten Sie gezielte Anleitung, um in Ihrem eigenen Tempo Fortschritte zu machen.</p>
 <p><strong>"Sip &amp; Paint" Event:</strong> Genießen Sie gemeinsam mit anderen Kunstinteressierten eine entspannte Atmosphäre bei meinem "Sip &amp; Paint" Event. Hier leite ich Sie als erfahrene Künstlerin Schritt für Schritt an, Ihr eigenes Kunstwerk zu schaffen. Dabei steht der soziale Aspekt im Vordergrund, begleitet von lokalem Wein und einer entspannten Umgebung. </p>
 <p>Kontakt: <a href="#INTERNAL_LINK#/post/NaN">Angelika Paints</a></p>
@@ -930,211 +966,6 @@
 
   <p>
     My art reflects experiences and feelings that influence me in large and small ways every day. Art tells a story with chapters reflecting people and events around me at a specific time in life.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aquarel</title>
-        <author>
-            <name>Angelika</name>
-        </author>
-        <link href="https://angelikapaints.com/aquarelle-melodies/"/>
-        <id>https://angelikapaints.com/aquarelle-melodies/</id>
-        <media:content url="https://angelikapaints.com/media/posts/8/Screenshot-2021-08-29-at-20.18.26.png" medium="image" />
-
-        <updated>2023-11-13T09:45:36+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://angelikapaints.com/media/posts/8/Screenshot-2021-08-29-at-20.18.26.png" alt="Landscape" />
-                    Meistens male ich mit Ölfarben und füge häufig zerrissenes Papier oder gefundene Objekte wie Federn oder Blütenblätter hinzu, um Textur&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://angelikapaints.com/media/posts/8/Screenshot-2021-08-29-at-20.18.26.png" class="type:primaryImage" alt="Landscape" /></p>
-                
-  <p>
-    Meistens male ich mit Ölfarben und füge häufig zerrissenes Papier oder gefundene Objekte wie Federn oder Blütenblätter hinzu, um Textur zu schaffen. Wenn ich reise oder Ideen skizziere, verwende ich gerne Aquarellfarben.
-  </p>
-
-  <p>
-    Diese kleinen Arbeiten sind wie Melodien zu einem Thema, das mir eingefallen ist, oder ich erstelle sie, um mit einem Thema für ein Ölgemälde zu experimentieren.
-  </p>
-
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/1149B793-9A93-4353-8DD0-DC6AAA1221EF.jpeg" data-size="4032x3024">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/1149B793-9A93-4353-8DD0-DC6AAA1221EF-thumbnail.jpeg" height="540" width="720" alt="" >
-      </a>
-      <figcaption>Painting with Tea & Coffee</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/28ED21B8-9FC4-4575-8470-A60566B3E341.jpeg" data-size="4032x3024">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/28ED21B8-9FC4-4575-8470-A60566B3E341-thumbnail.jpeg" height="540" width="720" alt="" >
-      </a>
-      <figcaption>Salt and Water Pigments</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/1366128C-1234-40E0-9919-8BD2BEB838BE.jpeg" data-size="4032x3024">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/1366128C-1234-40E0-9919-8BD2BEB838BE-thumbnail.jpeg" height="576" width="768" alt="" >
-      </a>
-      <figcaption>Cat Memories</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/F6DDCBFD-3054-45F5-A719-0D2B4FCA766D.jpeg" data-size="4032x3024">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/F6DDCBFD-3054-45F5-A719-0D2B4FCA766D-thumbnail.jpeg" height="576" width="768" alt="" >
-      </a>
-      <figcaption>Half Full</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/FBB53736-7E99-4CE8-A024-3F582AB1B452.jpeg" data-size="4032x3024">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/FBB53736-7E99-4CE8-A024-3F582AB1B452-thumbnail.jpeg" height="576" width="768" alt="" >
-      </a>
-      <figcaption>Shells</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/068B8A90-27B5-4B69-9A3F-A6620F01E13E.jpeg" data-size="4032x3024">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/068B8A90-27B5-4B69-9A3F-A6620F01E13E-thumbnail.jpeg" height="576" width="768" alt="" >
-      </a>
-      <figcaption>Green Peas</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/1FF8F746-3821-462B-9BE3-C34B95808DED.jpeg" data-size="4032x3024">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/1FF8F746-3821-462B-9BE3-C34B95808DED-thumbnail.jpeg" height="576" width="768" alt="" >
-      </a>
-      <figcaption>Ping-Pong</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/58BE1874-EF5F-43A2-A0C7-85646FCD11A2_1_201_a.jpeg" data-size="3024x4032">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/58BE1874-EF5F-43A2-A0C7-85646FCD11A2_1_201_a-thumbnail.jpeg" height="1024" width="768" alt="" >
-      </a>
-      <figcaption>Bad Hair Day</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/2CDD52D2-E6B2-456E-B371-9B881EDA9255_1_201_a.jpeg" data-size="3024x4032">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/2CDD52D2-E6B2-456E-B371-9B881EDA9255_1_201_a-thumbnail.jpeg" height="1024" width="768" alt="" >
-      </a>
-      <figcaption>Complementary Play</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_6814D.jpeg" data-size="319x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_6814D-thumbnail.jpeg" height="320" width="319" alt="" >
-      </a>
-      <figcaption>A card for you</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_7459D.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7459D-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Eye-ing</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_7487.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7487-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Tree-ing</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_7573D.jpeg" data-size="229x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7573D-thumbnail.jpeg" height="320" width="229" alt="" >
-      </a>
-      <figcaption>Multicoloured Cat</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_7996D.jpeg" data-size="320x234">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7996D-thumbnail.jpeg" height="234" width="320" alt="" >
-      </a>
-      <figcaption>Maiglocke</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_8122D.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_8122D-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Dragon Fly</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_8123D.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_8123D-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Baby Announcement</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_8173.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_8173-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Card for a garden Friend</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_8354D.jpeg" data-size="320x240">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_8354D-thumbnail.jpeg" height="240" width="320" alt="" >
-      </a>
-      <figcaption>Sweet Pepper</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_8462D.jpeg" data-size="210x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_8462D-thumbnail.jpeg" height="320" width="210" alt="" >
-      </a>
-      <figcaption>Little Fig Tree</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_9002D.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_9002D-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Shape & Form</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_9226D.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_9226D-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Summer - White Wine Spritzer</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_7332D.jpeg" data-size="320x216">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7332D-thumbnail.jpeg" height="216" width="320" alt="" >
-      </a>
-      <figcaption>Swan on the Donau</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_7353D.jpeg" data-size="320x221">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7353D-thumbnail.jpeg" height="221" width="320" alt="" >
-      </a>
-      <figcaption>Look me into the eyes</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_7461D.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7461D-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Water & Grasses</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_7463D.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7463D-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Leaf variations</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/B4198AE2-11FC-4934-A97D-13660B5E609A.jpeg" data-size="4032x3024">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/B4198AE2-11FC-4934-A97D-13660B5E609A-thumbnail.jpeg" height="576" width="768" alt="" >
-      </a>
-      <figcaption>Hommage to Wayne Thiedbaud</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_7502.jpeg" data-size="320x240">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_7502-thumbnail.jpeg" height="240" width="320" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_1985.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_1985-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Winter Post Card Landscape 1</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_1976.jpeg" data-size="317x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_1976-thumbnail.jpeg" height="320" width="317" alt="" >
-      </a>
-      <figcaption>Winter Post Card Landscape 2</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_1970D.jpeg" data-size="320x240">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_1970D-thumbnail.jpeg" height="240" width="320" alt="" >
-      </a>
-      <figcaption>Winter Post Card Landscape 3</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/IMG_1569.jpeg" data-size="240x320">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/IMG_1569-thumbnail.jpeg" height="320" width="240" alt="" >
-      </a>
-      <figcaption>Fichten-Nadel-Likör</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/Screenshot-2022-01-04-at-19.38.40.png" data-size="1242x1744">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/Screenshot-2022-01-04-at-19.38.40-thumbnail.png" height="1078" width="768" alt="" >
-      </a>
-      <figcaption>Winter Walk</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://angelikapaints.com/media/posts/8/gallery/Screenshot-2022-01-04-at-19.39.01.png" data-size="1342x1486">
-        <img loading="lazy" src="https://angelikapaints.com/media/posts/8/gallery/Screenshot-2022-01-04-at-19.39.01-thumbnail.png" height="850" width="768" alt="" >
-      </a>
-      <figcaption>Xmas Ball Close-up</figcaption>
-    </figure>
-    </div>
-  </div>
-
-  <p>
-    
   </p>
             ]]>
         </content>
