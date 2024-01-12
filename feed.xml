@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2024-01-12T14:11:21+01:00</updated>
+    <updated>2024-01-12T14:16:43+01:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -16,18 +16,18 @@
         </author>
         <link href="https://angelikapaints.com/individueller-kunst-unterricht/"/>
         <id>https://angelikapaints.com/individueller-kunst-unterricht/</id>
-        <media:content url="https://angelikapaints.com/media/posts/19/holz.jpeg" medium="image" />
+        <media:content url="https://angelikapaints.com/media/posts/19/APA1.png" medium="image" />
 
-        <updated>2023-12-29T13:39:46+01:00</updated>
+        <updated>2024-01-12T14:16:43+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://angelikapaints.com/media/posts/19/holz.jpeg" alt="" />
+                        <img src="https://angelikapaints.com/media/posts/19/APA1.png" alt="" />
                     Events wie "Sip &amp; Paint" und Workshops liegen zwischen 30-40 EUR pro Person. Bitte wenden Sie sich direkt an die&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://angelikapaints.com/media/posts/19/holz.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://angelikapaints.com/media/posts/19/APA1.png" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://angelikapaints.com/media/posts/19/Preise-web2.png" height="524" width="754" alt=""  sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/19/responsive/Preise-web2-xs.png 300w ,https://angelikapaints.com/media/posts/19/responsive/Preise-web2-sm.png 480w ,https://angelikapaints.com/media/posts/19/responsive/Preise-web2-md.png 768w">
