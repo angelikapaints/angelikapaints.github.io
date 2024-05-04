@@ -3,14 +3,14 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2024-05-04T21:44:24+02:00</updated>
+    <updated>2024-05-04T22:42:56+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
     <id>https://angelikapaints.com</id>
 
     <entry>
-        <title>Newsletter</title>
+        <title>Newsletters</title>
         <author>
             <name>Angelika</name>
         </author>
@@ -20,14 +20,22 @@
         <updated>2024-05-04T21:44:24+02:00</updated>
             <summary>
                 <![CDATA[
-                    Gerne auch zum runterladen und ausdrucken.
+                    Gerne auch zum runterladen und ausdrucken: Mai-Juni 2024&nbsp; &nbsp;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Gerne auch zum runterladen und ausdrucken.
+    <strong>Gerne auch zum runterladen und ausdrucken:</strong>
+  </p>
+
+  <p>
+    <a href="https://angelikapaints.com/APA Newsletter E-Mail Mai-Juni.pdf" target="_blank" download class="">Mai-Juni 2024</a>&nbsp;
+  </p>
+
+  <p>
+    &nbsp;
   </p>
             ]]>
         </content>
