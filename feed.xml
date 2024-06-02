@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2024-06-02T18:48:22+02:00</updated>
+    <updated>2024-06-02T18:57:59+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -18,16 +18,12 @@
         <id>https://angelikapaints.com/kontakt/</id>
 
         <updated>2024-06-02T17:42:59+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Kontakt
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Kontakt
+    
   </p>
 
   <p>
