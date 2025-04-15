@@ -3,7 +3,7 @@
     <title>Angelika Paints</title>
     <link href="https://angelikapaints.com/feed.xml" rel="self" />
     <link href="https://angelikapaints.com" />
-    <updated>2025-04-15T13:34:28+02:00</updated>
+    <updated>2025-04-15T14:16:42+02:00</updated>
     <author>
         <name>Angelika</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/kontakt/"/>
-        <id>https://angelikapaints.com/kontakt/</id>
+        <link href="https://angelikapaints.com/kontakt.html"/>
+        <id>https://angelikapaints.com/kontakt.html</id>
 
         <updated>2024-06-02T17:42:59+02:00</updated>
             <summary></summary>
@@ -37,37 +37,24 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/newsletter/"/>
-        <id>https://angelikapaints.com/newsletter/</id>
-        <media:content url="https://angelikapaints.com/media/posts/20/PubliiEventbritePhot-2.mp4" medium="image" />
+        <link href="https://angelikapaints.com/newsletter.html"/>
+        <id>https://angelikapaints.com/newsletter.html</id>
+        <media:content url="https://angelikapaints.com/media/posts/20/Eventbritelink.png" medium="image" />
 
         <updated>2024-05-04T21:44:24+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://angelikapaints.com/media/posts/20/PubliiEventbritePhot-2.mp4" alt="" />
+                        <img src="https://angelikapaints.com/media/posts/20/Eventbritelink.png" alt="" />
                     Online Anmeldung oder per email &nbsp;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://angelikapaints.com/media/posts/20/PubliiEventbritePhot-2.mp4" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://angelikapaints.com/media/posts/20/Eventbritelink.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    <font color="#02192b"><b>Online Anmeldung oder per email</b></font><br>
+    <font color="#02192b"><b><a href="https://www.eventbrite.de/o/angelika-paints-atelier-galerie-87212653863">Online Anmeldung</a> oder per email</b></font><br>
   </p>
-
-  <p>
-    
-  </p>
-
-  <p>
-    <br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://angelikapaints.com/media/posts/20/PubliiEventbritePhot.mp4" height="null" width="null" alt="" >
-      
-    </figure>
 
   <p>
     &nbsp;
@@ -80,8 +67,8 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/individueller-kunst-unterricht/"/>
-        <id>https://angelikapaints.com/individueller-kunst-unterricht/</id>
+        <link href="https://angelikapaints.com/individueller-kunst-unterricht.html"/>
+        <id>https://angelikapaints.com/individueller-kunst-unterricht.html</id>
         <media:content url="https://angelikapaints.com/media/posts/19/APA1.png" medium="image" />
 
         <updated>2023-12-10T18:37:39+01:00</updated>
@@ -119,8 +106,8 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/hello-world/"/>
-        <id>https://angelikapaints.com/hello-world/</id>
+        <link href="https://angelikapaints.com/hello-world.html"/>
+        <id>https://angelikapaints.com/hello-world.html</id>
         <media:content url="https://angelikapaints.com/media/posts/1/Atelier-5.jpg" medium="image" />
 
         <updated>2023-08-12T13:13:36+02:00</updated>
@@ -137,7 +124,7 @@
 <figure class="post__image post__image--left"><strong><img loading="lazy"  src="https://angelikapaints.com/media/posts/1/Intuitive-Painting.jpeg" alt="Intuitive Painting" width="183" height="223" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/1/responsive/Intuitive-Painting-xs.jpeg 300w ,https://angelikapaints.com/media/posts/1/responsive/Intuitive-Painting-sm.jpeg 480w ,https://angelikapaints.com/media/posts/1/responsive/Intuitive-Painting-md.jpeg 768w"></figure><span style="color: #000000;"><em>Malen Intro Workshop</em></span></strong><br>Anmeldung per email an: <a href="mailto:me@angelikapaints.com">me@angelikapaints.com</a> <br>Beim intuitiven Malen lernen Sie sich spontan und ohne Urteil oder konkrete Vorstellungen kreativ auszudrücken, geleitet durch eine erfahrene Künstlerin, die den Fokus auf emotionale Verbindung, Farbexperimente und den Prozess selbst legt. <span class="OYPEnA text-decoration-none text-strikethrough-none">Lernen Sie grundlegende </span><span class="OYPEnA text-decoration-none text-strikethrough-none">Mal Techniken und dann malen Sie Ihr eigenes kleines Kunstwerk auf Leinwand. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Workshop Gebühr: ab 40€ inkl. Materialien</span></span></p>
 <figure class="post__image post__image--left"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-right: 1.37143rem;" src="https://angelikapaints.com/media/posts/1/2024-01-11_18-07-06_065.jpeg" alt="Brush up on your English" width="165" height="220" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/1/responsive/2024-01-11_18-07-06_065-xs.jpeg 300w ,https://angelikapaints.com/media/posts/1/responsive/2024-01-11_18-07-06_065-sm.jpeg 480w ,https://angelikapaints.com/media/posts/1/responsive/2024-01-11_18-07-06_065-md.jpeg 768w"></figure>
 <p><span style="color: #236fa1;"><span style="color: #000000;"><strong>Colourful English</strong></span><br><span style="color: #000000;">Anmeldungen zu Kursen und Workshops bei <a href="https://www.eventbrite.de/o/angelika-paints-atelier-87212653863" target="_blank" rel="noopener noreferrer">Eventbrite</a> oder per email an: <a href="mailto:me@angelikapaints.com">me@angelikapaints.com</a> <br>Förderung im künstlerischen und englischen Ausdruck. Mit dem Pinsel in der Hand und mit einer Esslinger Künstlerin, die 20 Jahre in den USA gelebt und unterrichtet hat, lernen Sie Englisch und freuen sich über Ihre eigenen künstlerischen Resultate. Keine gestalterisch-künstlerischen Erfahrungen oder Englischkenntnisse erforderlichen. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Workshop Gebühr: ab 40€ inkl. Materialien</span><br></span></span></p>
-<figure class="post__image post__image--left align-left"><strong><span style="color: #34495e;"><img loading="lazy"  src="https://angelikapaints.com/media/posts/1/Studentwork3.jpeg" alt="Student 3d mask" width="148" height="198" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/1/responsive/Studentwork3-xs.jpeg 300w ,https://angelikapaints.com/media/posts/1/responsive/Studentwork3-sm.jpeg 480w ,https://angelikapaints.com/media/posts/1/responsive/Studentwork3-md.jpeg 768w"></figure></span><span style="color: #000000;"><em>Individueller Unterricht</em></span></strong><br>Anmeldung per email an: <a href="mailto:me@angelikapaints.com">me@angelikapaints.com</a> <br>Für eine persönliche Herangehensweise biete ich Einzelunterricht an. Speziellen Wünsche und Fähigkeiten werden individuell angepasst. Hier erhalten Sie gezielte Anleitung, um in Ihrem eigenen Tempo in verschiedenen Medien von Malerei bis Keramik Fortschritte zu machen. Individuelle Unterrichte sind sozusagen one-on-one mit der Künstlerin und werden in <a href="https://angelikapaints.com/individueller-kunst-unterricht/">5er, 10er Stunden Bündel</a> angeboten.</p>
+<figure class="post__image post__image--left align-left"><strong><span style="color: #34495e;"><img loading="lazy"  src="https://angelikapaints.com/media/posts/1/Studentwork3.jpeg" alt="Student 3d mask" width="148" height="198" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/1/responsive/Studentwork3-xs.jpeg 300w ,https://angelikapaints.com/media/posts/1/responsive/Studentwork3-sm.jpeg 480w ,https://angelikapaints.com/media/posts/1/responsive/Studentwork3-md.jpeg 768w"></figure></span><span style="color: #000000;"><em>Individueller Unterricht</em></span></strong><br>Anmeldung per email an: <a href="mailto:me@angelikapaints.com">me@angelikapaints.com</a> <br>Für eine persönliche Herangehensweise biete ich Einzelunterricht an. Speziellen Wünsche und Fähigkeiten werden individuell angepasst. Hier erhalten Sie gezielte Anleitung, um in Ihrem eigenen Tempo in verschiedenen Medien von Malerei bis Keramik Fortschritte zu machen. Individuelle Unterrichte sind sozusagen one-on-one mit der Künstlerin und werden in <a href="https://angelikapaints.com/individueller-kunst-unterricht.html">5er, 10er Stunden Bündel</a> angeboten.</p>
 <figure class="post__image post__image--left"><strong><span style="color: #000000;"><img loading="lazy"  style="color: var(--headings-color); font-family: var(--font-base); font-size: 1em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);" src="https://angelikapaints.com/media/posts/1/sipandpaint-gruppe.jpeg" alt="" width="380" height="285" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/1/responsive/sipandpaint-gruppe-xs.jpeg 300w ,https://angelikapaints.com/media/posts/1/responsive/sipandpaint-gruppe-sm.jpeg 480w ,https://angelikapaints.com/media/posts/1/responsive/sipandpaint-gruppe-md.jpeg 768w"></figure>"Sip &amp; Paint" Event</span><em><span style="color: #236fa1;"><br></span></em></strong>Anmeldung bei <a href="https://www.eventbrite.de/o/angelika-paints-atelier-87212653863" target="_blank" rel="noopener noreferrer">Eventbrite</a> oder per email an: <a href="mailto:me@angelikapaints.com">me@angelikapaints.com</a> <br>Genießen Sie gemeinsam mit anderen Kunstinteressierten eine entspannte Atmosphäre bei einem "Sip &amp; Paint" Event. Hier leite ich Sie Schritt für Schritt an, Ihr eigenes Kunstwerk zu schaffen. Dabei steht der soziale Aspekt im Vordergrund, begleitet von lokalem Wein und einer entspannten Umgebung. <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Event Gebühr: ab 45€ inkl. Materialien, Weinproben und Snacks.</span></p>
 <figure class="post__image post__image--left"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><strong><i><span style="color: #2dc26b;"><span style="color: #000000;"><img loading="lazy"  src="https://angelikapaints.com/media/posts/1/Adult-painting3.jpeg" alt="" width="209" height="279" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://angelikapaints.com/media/posts/1/responsive/Adult-painting3-xs.jpeg 300w ,https://angelikapaints.com/media/posts/1/responsive/Adult-painting3-sm.jpeg 480w ,https://angelikapaints.com/media/posts/1/responsive/Adult-painting3-md.jpeg 768w"></figure></span></span></i><span style="color: #2dc26b;"><span style="color: #000000;">Workshop: Intuitives Malen</span></span><i><span style="color: #2dc26b;"><span style="color: #000000;"><br></span></span></i></strong></span><i></i><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Jeder Workshop ist einzigartig.</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Teilnehmer wählen das Thema, die Werkzeuge und die Farben des Workshops. Der kreative Prozess ist dabei wichtiger als das fertige Gemälde. Diese Methode erfordert keine Kunstkenntnisse und ermutigt zur freien Entfaltung der Kreativität.  Anmeldung per email an: <a href="mailto:me@angelikapaints.com">me@angelikapaints.com</a> <br>Workshop Gebühr: ab 40€ inkl. Materialien<br></span></p>
 <p> </p>
@@ -249,8 +236,8 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/cv-lebenslauf/"/>
-        <id>https://angelikapaints.com/cv-lebenslauf/</id>
+        <link href="https://angelikapaints.com/cv-lebenslauf.html"/>
+        <id>https://angelikapaints.com/cv-lebenslauf.html</id>
 
         <updated>2022-08-29T21:47:27+02:00</updated>
             <summary>
@@ -288,8 +275,8 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/ceramics/"/>
-        <id>https://angelikapaints.com/ceramics/</id>
+        <link href="https://angelikapaints.com/ceramics.html"/>
+        <id>https://angelikapaints.com/ceramics.html</id>
 
         <updated>2022-01-09T15:13:45+01:00</updated>
             <summary>
@@ -327,8 +314,8 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/life-wood/"/>
-        <id>https://angelikapaints.com/life-wood/</id>
+        <link href="https://angelikapaints.com/life-wood.html"/>
+        <id>https://angelikapaints.com/life-wood.html</id>
 
         <updated>2021-11-20T19:09:22+01:00</updated>
             <summary>
@@ -436,8 +423,8 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/stories/"/>
-        <id>https://angelikapaints.com/stories/</id>
+        <link href="https://angelikapaints.com/stories.html"/>
+        <id>https://angelikapaints.com/stories.html</id>
         <media:content url="https://angelikapaints.com/media/posts/13/12719234_10209119549369955_5197330497299217184_o.jpg" medium="image" />
 
         <updated>2021-08-29T18:26:37+02:00</updated>
@@ -562,8 +549,8 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/animal-tales/"/>
-        <id>https://angelikapaints.com/animal-tales/</id>
+        <link href="https://angelikapaints.com/animal-tales.html"/>
+        <id>https://angelikapaints.com/animal-tales.html</id>
         <media:content url="https://angelikapaints.com/media/posts/12/Screenshot-2021-08-29-at-20.08.21.png" medium="image" />
 
         <updated>2021-08-13T17:42:59+02:00</updated>
@@ -664,8 +651,8 @@
         <author>
             <name>Angelika</name>
         </author>
-        <link href="https://angelikapaints.com/landscapes/"/>
-        <id>https://angelikapaints.com/landscapes/</id>
+        <link href="https://angelikapaints.com/landscapes.html"/>
+        <id>https://angelikapaints.com/landscapes.html</id>
         <media:content url="https://angelikapaints.com/media/posts/11/131684219_1523185438070966_5298005922977409768_n.jpg" medium="image" />
 
         <updated>2021-08-13T16:23:48+02:00</updated>
